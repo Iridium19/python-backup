@@ -1,0 +1,159 @@
+\documentclass[12pt, a4paper]{article}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+\usepackage[ngerman]{babel}
+\usepackage{mathptmx}
+\usepackage{blindtext}
+\usepackage{emptypage}
+\usepackage{wrapfig}
+\usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage[version=4,arrows=pgf-filled,
+textfontname=sffamily,
+mathfontname=mathsf]{mhchem}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{mathcomp}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
+\addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\textsuperscript{\printfield{labelnumber}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ top=25mm,
+ }
+\setstretch{1.213}
+
+
+\newcommand{\datum}{\day.\month.\year}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg} 
+
+\begin{document}
+
+
+\begin{figure}
+    \includegraphics[scale=0.14]{Universität_Bayreuth.svg.png}
+\end{figure}
+
+
+%Deckblatt
+
+{\raggedright Universität Bayreuth\\  95447 Bayreuth}
+
+
+\vspace{5cm}
+
+\begin{center}
+{\LARGE\bf{Anorganische Chemie III}} \\  
+\vspace{1cm}
+{\Large\bf{Hochtemperatur-Supraleiter}}\\
+\vspace{0.5cm}
+{\large Justus Friedrich\\}
+{Studiengang: B.Sc. Chemie\\}
+{4. Fachsemester}
+\end{center}
+
+
+
+
+
+\thispagestyle{empty}
+\begin{center}
+{\small Matrikelnummer: 1956010 \\
+E–Mail:  bt725206@myubt.de}
+\end{center}
+
+\vspace{5cm}
+
+\begin{center}
+  \today
+\end{center}
+
+
+\newpage
+%Inhaltsverzeichnis
+\tableofcontents
+\thispagestyle{empty}
+
+
+%Teil 1
+\newpage
+\setcounter{page}{1}
+\section{Einleitung}
+
+
+
+\subsection{Einführung}
+{Supraleiter sind in der heutigen Gesellschaft sehr relevant, vom Large Hadron Collider am Cern über NMR-Geräten bis zum MRT. 
+In all diesen Geräten sind Supraleitende Stoffe verbaut, um ein starkes Magnetfeld zu erzeugen. Allerdings ist das mit einem hohen 
+Energieaufwand verbunden, da in diesen in der Regel mit Supraleiter verbaut werden, die flüssiges Helium zur Kühlung 
+benötigen. Es gibt allerdings auch Hochtemperatur-Supraleiter, die nur flüssigen Stickstoff zur Kühlung benötigen. Allerdings sind die 
+meisten der Hochtemperatur-Supraleiter noch nicht Markreif.\cite{Buckel.2013}
+}
+
+\subsection{Ziel des Versuchs}
+{In dem Versuch soll der Supraleiter $YBa_2Cu_3O_{6-7}$ hergestellt, wobei möglichst viel Sauerstoff eingelagert werden sollte. Anschließend soll die Struktur mittls eines Pulverdiffraktogramms untersucht werden, 
+und als Nachweis des Supraleiters auf den Meißner-Ochsenfeld-Effekt untersucht werden.\cite{Skript}
+}
+
+\newpage
+%Teil2
+\section{Durchführung}
+\subsection{\texorpdfstring{Synthese von $YBa_2Cu_3O_{6-7}$}{Synthese von YBa2Cu3O6-7}}
+{
+
+Dieser Versuch wird durchgehend im Abzug durchgeführt, da Stickoxide entstehen können.
+$300.1\ mg$ (1.33 mmol) $Y_2O_5$ wird mit 634.1 mg (7.971 mmol) $CuO$ in ca. 7 mL konzentrierter $HNO_3$. Diese Lösung wird bei ca. 90 °C auf einer 
+Rührplatte stark eingeengt. Daraufhin wird mit 30 mL Wasser verdünnt und mit 1.39 g (5.314 mmol) $Ba(NO_3)_2$ versetzt. Danach wird die Lösung wieder eingeengt und mit 
+9 mL (160.9 mmol) Ethylenglykol und 4.5 g (23.42 mmol) Zitronensäure versetzt. Daraufhin wird die Lösung so lange eingeengt, bis eine dickflüssige Lösung entstanden ist. 
+Dabei kann es zum Aufschäumen und Stickoxid Bildung kommen. Nachdem die Lösung dickflüssig geworden ist, wird sie in einen Tiegel überführt und über einen Bunsenbrenner erhitzt. 
+Dabei kann es wieder zum Überschäumen kommen. Wenn keine Dämpfe mehr entstehen wird noch für 10 weitere Minuten mit dem Bunsenbrenner erhitzt. Daraufhin wird das entsandende Pulver für 10 h bei 920 °C getempert. 
+Danach wird eine Tablette gepresst und erneut für 8h für 920 °C getempert. Anschließend wird bei 450 °C für 8h in einer $O_2$-angereicherten Atmosphäre getempert.\cite{Skript}
+}
+\subsection{Charakterisierung}
+{
+Es wird ein kleines Stück der Tablette abgebrochen und davon ein Pulverdiffraktogramm aufgenommen. Die restliche Tablette wird mit flüssigen Stickstoff gekühlt und vorsichtig auf 
+ein Magneten gegeben. 
+
+
+
+
+}
+
+
+
+\newpage
+\section{Auswertung}
+\subsection{Ergebnisse}
+\subsection{Diskussion}
+
+
+
+\newpage
+\section{Zusammenfassung}
+\cite{Skript}
+
+
+
+\newpage
+\section{Literaturverzeichnis}
+\printbibliography
+
+
+
+
+
+
+
+\end{document}

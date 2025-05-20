@@ -1,0 +1,134 @@
+\documentclass[12pt, a4paper]{article}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+\usepackage[ngerman]{babel}
+\usepackage{mathptmx}
+\usepackage{blindtext}
+\usepackage{emptypage}
+\usepackage{wrapfig}
+\usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage[table]{xcolor}
+\usepackage{mathcomp}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
+\addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\textsuperscript{\printfield{labelnumber}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ top=25mm,
+ }
+\setstretch{1.213}
+
+
+\newcommand{\datum}{\day.\month.\year}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg} 
+
+\begin{document}
+
+
+\begin{figure}
+    \includegraphics[scale=0.14]{Universität_Bayreuth.svg.png}
+\end{figure}
+
+
+%Deckblatt
+
+{\raggedright Universität Bayreuth\\  95447 Bayreuth}
+
+
+\vspace{5cm}
+
+\begin{center}
+{\LARGE\bf{Anorganische Chemie III}} \\  
+\vspace{1cm}
+{\Large\bf{Überschrift}}\\
+\vspace{0.5cm}
+{\large Justus Friedrich\\}
+{Studiengang: B.Sc. Chemie\\}
+{4. Fachsemester}
+\end{center}
+
+
+
+
+
+\thispagestyle{empty}
+\begin{center}
+{\small Matrikelnummer: 1956010 \\
+E–Mail:  bt725206@myubt.de}
+\end{center}
+
+\vspace{5cm}
+
+\today
+
+
+\newpage
+%Inhaltsverzeichnis
+\tableofcontents
+\thispagestyle{empty}
+
+
+%Teil 1
+\newpage
+\setcounter{page}{1}
+\section{Einleitung}
+
+
+
+\subsection{Einführung}
+{
+
+}
+
+\subsection{Ziel des Versuchs}
+{
+}
+
+\newpage
+%Teil2
+\section{Durchführung}
+\subsection{Synthese von Zeolith A}
+{
+}
+
+
+
+
+
+\newpage
+\section{Auswertung}
+\subsection{Ergebnisse}
+\subsection{Diskussion}
+
+
+
+\newpage
+\section{Zusammenfassung}
+
+
+
+
+\newpage
+\section{Literaturverzeichnis}
+\printbibliography
+
+
+
+
+
+
+
+\end{document}

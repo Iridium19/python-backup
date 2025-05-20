@@ -1,0 +1,172 @@
+\documentclass[12pt, a4paper]{article}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+\usepackage[ngerman]{babel}
+\usepackage{mathptmx}
+\usepackage{blindtext}
+\usepackage{emptypage}
+\usepackage{wrapfig}
+\usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage[version=4,arrows=pgf-filled,
+textfontname=sffamily,
+mathfontname=mathsf]{mhchem}
+\usepackage{hyperref}
+\usepackage{mathcomp}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{mathcomp}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
+\addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\textsuperscript{\printfield{labelnumber}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ top=25mm,
+ }
+\setstretch{1.213}
+
+
+\newcommand{\datum}{\day.\month.\year}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg} 
+
+\begin{document}
+
+
+\begin{figure}
+    \includegraphics[scale=0.14]{Universität_Bayreuth.svg.png}
+\end{figure}
+
+
+%Deckblatt
+
+{\raggedright Universität Bayreuth\\  95447 Bayreuth}
+
+
+\vspace{5cm}
+
+\begin{center}
+{\LARGE\bf{Anorganische Chemie III}} \\  
+\vspace{1cm}
+{\Large\bf{Gelkristallisation und Chemischer Transport}}\\
+\vspace{0.5cm}
+{\large Justus Friedrich\\}
+{Studiengang: B.Sc. Chemie\\}
+{4. Fachsemester}
+\end{center}
+
+
+
+
+
+\thispagestyle{empty}
+\begin{center}
+{\small Matrikelnummer: 1956010 \\
+E-Mail:  bt725206@myubt.de}
+\end{center}
+
+\vspace{5cm}
+\begin{center}
+  \today
+\end{center}
+
+
+
+\newpage
+%Inhaltsverzeichnis
+\tableofcontents
+\thispagestyle{empty}
+
+
+%Teil 1
+\newpage
+\setcounter{page}{1}
+\section{Einleitung}
+
+
+
+\subsection{Einführung}
+{Einkristalle sind für die Charakterisierung sehr relevant, da damit sich die Strukturen nachvollziehen lassen. Allerdings ist das recht 
+schwer gute Einkristalle von Schwerlöslichen Salzen zu erhalten. Wenn die einzelnen Ausgangsstoffe der Verbindung zur verfügen stehen, kann mittels 
+der Gelkristallisation Einkristalle gezüchtet werden. Wenn allerdings nur eine unsaubere Probe des kristallinen Stoffes vorliegt, kann, soweit ein Transportmittel vorhanden, 
+der Stoff chemisch transportiert werden. Dabei entsteht ein sauberer Einkristall, während die Verunreinigungen zurückbleiben.
+}
+
+\subsection{Ziel des Versuchs}
+{Es soll in einem Agar-Agar-Gel und in einem Kieselgel Kristalle gezüchtet werden. Außerdem soll ein Stoff chemisch transportiert werden. 
+Anschließend werden die Kristalle unter einem Mikroskop untersucht. Dabei sollen die Eigenschaften der Kristalle bestimmt werden, und verglichen werden. 
+
+}
+
+
+
+
+
+
+\newpage
+%Teil2
+\section{Durchführung}
+\subsection{Herstellung eines Agar-Agar-Gels und Kristallwachstum in diesem}
+{Es werden 24.5 mL VE-Wasser mit 0.5 g Agar-Agar vermischt, und solange gekocht, dass sich das Agar-Agar vollständig gelöst hat. Anschließend wird 25 mL einer warme 1 molare $CaCl_2$-Lösung hinzugegeben. 
+Diese wurde aus 3.676 g (25.0 mmol) $CaCl_2$ und 25 mL Wasser hergestellt. Die entstehende Mischung wird daraufhin auf vier Reagenzgläser aufgeteilt und erstarren lassen. Nachdem das Gel vollständig erstarrt ist, 
+wird eine 0.5 molare Lösung von $Na_2SO_3$ (1.90 g/0.015 mol in 30 mL Wasser) darauf gegeben. Nach Zwei Wochen werden die entstehende Kristalle aus dem Gel genommen und unter einem Mikroskop untersucht.\cite{Skript}
+
+}
+
+
+\subsection{Herstellung eines Kieselgels und Kristallwachstum in diesem}
+{Es werden 0.684 g (4.56 mmol) Weinsäure in 20 mL 1 molarer Essigsäure gelöst. Anschließt wird langsam Natriummetasilikatlösung hinzugetropft, bis sich ein pH-Wert von 6 eingestellt hat. Dies benötigt ca. 8 mL. Wenn sich der pH-Wert 
+eingestellt hat, dann wird die Lösung auf 3 Reagenzgläser aufgeteilt und gewartet bis das Gel vollständig erstarrt ist. Anschließend wird mit einer 0.22 molare $CuSO_4$-Lösung (1.66 g/6.66 mmol $CuS0_4\cdot 5 H_2O$ in 30 mL Wasser) 
+überschichtet. Nach einer bis zwei Woche werden die entstandene Kristalle entnommen und unterm Mikroskop untersucht.\cite{Skript}
+}
+
+
+\subsection{Chemischer Transport}
+\subsubsection{\texorpdfstring{Chemischer Transport mit $Ag_2S$}{Chemischer Transport mit Ag2S}}
+{In eine ausgeheizte Quarzampulle werden 70 mg (0.28 mmol) $Ag_2S$ und 2 Iod-Kügelchen gegeben. Daraufhin wird in der Ampulle ein Vakuum gezogen und abgeschmolzen. Daraufhin wird die Ampulle in einen Ofen gelegt, der ein Temperaturgradient von 
+825 °C$\rightarrow$700 °C besitzt. Nach zwei Wochen werden die Kristalle unter dem Mikroskop betrachtet.\cite{Skript}
+
+
+
+}
+\subsubsection{\texorpdfstring{Chemischer Transport mit $SnS_2$}{Chemischer Transport mit SnS2}}
+{In eine ausgeheizte Quarzampulle werden 70 mg (0.38 mmol) $SnS_2$ und 2 Iod-Kügelchen gegeben. Daraufhin wird in der Ampulle ein Vakuum gezogen und abgeschmolzen. Daraufhin wird die Ampulle in einen Ofen gelegt, der ein Temperaturgradient von 
+700 °C$\rightarrow$550 °C besitzt. Nach zwei Wochen werden die Kristalle unter dem Mikroskop betrachtet.\cite{Skript}
+}
+
+
+
+
+\newpage
+\section{Auswertung}
+\subsection{Ergebnisse}
+\subsection{Diskussion}
+
+
+
+\newpage
+\section{Zusammenfassung}
+\cite{Skript}
+
+
+
+\newpage
+\section{Literaturverzeichnis}
+\printbibliography
+
+
+
+
+
+
+
+\end{document}

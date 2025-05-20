@@ -1,0 +1,92 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Buckel.2013}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=9e94baf01f2b0ecea012912e2e24f874}{%
+           family={Buckel},
+           familyi={B\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod}}}%
+        {{hash=725014fdb04eebd305d691c07c42ceef}{%
+           family={Kleiner},
+           familyi={K\bibinitperiod},
+           given={Reinhold},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Weinheim}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-VCH}%
+      }
+      \strng{namehash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{fullhash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{fullhashraw}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{bibnamehash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{authorbibnamehash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{authornamehash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{authorfullhash}{7943184b635ae03a0d56be0680d59c1f}
+      \strng{authorfullhashraw}{7943184b635ae03a0d56be0680d59c1f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7., aktualisierte und erw. Aufl.}
+      \field{series}{Lehrbuch Physik}
+      \field{title}{Supraleitung: Grundlagen und Anwendungen}
+      \field{year}{2013}
+    \endentry
+    \entry{Skript}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4015c42dee08b273b0185c057642e1f3}{%
+           family={Breu},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9b2eb5fde8f06c37a36be5862bdb3706}{%
+           family={Senker},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{fullhash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{fullhashraw}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{bibnamehash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{authorbibnamehash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{authornamehash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{authorfullhash}{f07d725447ce3a0d11f9675614d81fc5}
+      \strng{authorfullhashraw}{f07d725447ce3a0d11f9675614d81fc5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Das Lehrbuch für Studenten des Faches Chemie im Grundstudium behandelt - je zur Hälfte - theoretische Grundlagen und anorganische Stoffchemie. Es ist au{ß}erdem für alle Fachrichtungen wie z.B. Biochemie und Chemieingenieurwissenschaften geeignet, für die solide Grundkenntnisse in anorganischer Chemie notwendig sind. Die graphische Gestaltung dient der Nutzung als Lehrbuch und als Repetitorium zur Prüfungsvorbereitung. In der Neuauflage sind alle umwelttechnischen Daten aktualisiert und neu entdeckte Reaktionsmuster aufgenommen worden. Neue Erklärungsmodelle zum Bindungsmechanismus sind mittlerweile wissenschaftlich abgesichert, so dass sie in das Lehrbuch integriert wurden, um den aktuellen Wissensstand auf diesem Gebiet abzubilden This introductory text book is primarily written for students of chemistry. It treats both theoretical basics and specifically anorganic chemistry. Further, it is suitable for all disciplines, such as Biochemistry and Chemical Engineering, which require a solid basis in anorganic chemistry}
+      \field{title}{Praktikum Präparative Anorganische Chemie}
+      \field{year}{2025}
+      \field{pages}{64\bibrangedash 68}
+      \range{pages}{5}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
