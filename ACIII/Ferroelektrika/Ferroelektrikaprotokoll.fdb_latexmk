@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Ferroelektrikaprotokoll"] 1747591696.07478 "Ferroelektrikaprotokoll.bcf" "Ferroelektrikaprotokoll.bbl" "Ferroelektrikaprotokoll" 1747743880.73144 0
-  "Ferroelektrikaprotokoll.bcf" 1747743880 108528 22790e166f21cc22a924665893693f0b "pdflatex"
+["biber Ferroelektrikaprotokoll"] 1747591696.07478 "Ferroelektrikaprotokoll.bcf" "Ferroelektrikaprotokoll.bbl" "Ferroelektrikaprotokoll" 1747824416.39606 0
+  "Ferroelektrikaprotokoll.bcf" 1747824416 108528 22790e166f21cc22a924665893693f0b "pdflatex"
   "literatur.bib" 1747486836 1917 492a4957a1f978ffca1266a3a21c9f1b ""
   (generated)
   "Ferroelektrikaprotokoll.bbl"
   "Ferroelektrikaprotokoll.blg"
   (rewritten before read)
-["pdflatex"] 1747743873.52084 "c:/Users/Justus/Desktop/Python/ACIII/Ferroelektrika/Ferroelektrikaprotokoll.tex" "Ferroelektrikaprotokoll.pdf" "Ferroelektrikaprotokoll" 1747743880.73236 0
+["pdflatex"] 1747824409.33233 "c:/Users/Justus/Desktop/Python/ACIII/Ferroelektrika/Ferroelektrikaprotokoll.tex" "Ferroelektrikaprotokoll.pdf" "Ferroelektrikaprotokoll" 1747824416.39697 0
   "BaTiO3293.png" 1747583871 18299 4aae9962f3da31527bad7b331dc39caa ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747484129 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0900.pk" 1747145256 10472 4cdb56f80d62cd833dc39730d4020af7 ""
@@ -238,14 +238,14 @@
   "Ferro1SrTiO3.png" 1747586495 19710 1ae98bbe7a196e9350f4723784052510 ""
   "Ferro2BaTiO3.png" 1747569603 21339 0a973d48e7000b6a18c13ce84071b2f6 ""
   "Ferro2SrTiO3.png" 1747586995 17459 fa8c31981616a7c9f3fc37c122126793 ""
-  "Ferroelektrikaprotokoll.aux" 1747743880 9818 1f9e329d48b4c3e80998a3cbfff4558f "pdflatex"
+  "Ferroelektrikaprotokoll.aux" 1747824416 9818 1f9e329d48b4c3e80998a3cbfff4558f "pdflatex"
   "Ferroelektrikaprotokoll.bbl" 1747591698 5999 6e81718fb324088eac9249156023c32f "biber Ferroelektrikaprotokoll"
-  "Ferroelektrikaprotokoll.out" 1747743880 2680 6c50f71fba907e2750f82ec73c150f2b "pdflatex"
-  "Ferroelektrikaprotokoll.run.xml" 1747743880 2572 238260986e6610a31b61fad50900a0fb "pdflatex"
-  "Ferroelektrikaprotokoll.tex" 1747743872 19850 4bcee86a04d2a2021d109314527141f7 ""
-  "Ferroelektrikaprotokoll.toc" 1747743880 1490 9cbcb90d3e1bdf05dfc8dfe41d77698f "pdflatex"
+  "Ferroelektrikaprotokoll.out" 1747824416 2680 6c50f71fba907e2750f82ec73c150f2b "pdflatex"
+  "Ferroelektrikaprotokoll.run.xml" 1747824416 2572 238260986e6610a31b61fad50900a0fb "pdflatex"
+  "Ferroelektrikaprotokoll.tex" 1747824400 19850 4bcee86a04d2a2021d109314527141f7 ""
+  "Ferroelektrikaprotokoll.toc" 1747824416 1490 9cbcb90d3e1bdf05dfc8dfe41d77698f "pdflatex"
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Ferroelektrika/Ferroelektrikaprotokoll.tex" 1747743872 19850 4bcee86a04d2a2021d109314527141f7 ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Ferroelektrika/Ferroelektrikaprotokoll.tex" 1747824400 19850 4bcee86a04d2a2021d109314527141f7 ""
   "ferrobatio3400.png" 1747585635 17554 3fa433d57c304d965b81f555b713deab ""
   (generated)
   "Ferroelektrikaprotokoll.aux"

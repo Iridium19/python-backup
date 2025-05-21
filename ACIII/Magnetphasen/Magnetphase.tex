@@ -1,0 +1,152 @@
+\documentclass[12pt, a4paper]{article}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+\usepackage[ngerman]{babel}
+\usepackage{mathptmx}
+\usepackage{blindtext}
+\usepackage{emptypage}
+\usepackage{wrapfig}
+\usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[version=4,arrows=pgf-filled,
+textfontname=sffamily,
+mathfontname=mathsf]{mhchem}
+\usepackage[table]{xcolor}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{float}
+\usepackage{mathcomp}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
+\addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\textsuperscript{\printfield{labelnumber}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ top=25mm,
+ }
+\setstretch{1.213}
+
+
+\newcommand{\datum}{\day.\month.\year}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg} 
+
+\begin{document}
+
+
+\begin{figure}
+    \includegraphics[scale=0.14]{Universität_Bayreuth.svg.png}
+\end{figure}
+
+
+%Deckblatt
+
+{\raggedright Universität Bayreuth\\  95447 Bayreuth}
+
+
+\vspace{5cm}
+
+\begin{center}
+{\LARGE\bf{Anorganische Chemie III}} \\  
+\vspace{1cm}
+{\Large\bf{Magnetphasen}}\\
+\vspace{0.5cm}
+{\large Justus Friedrich\\}
+{Studiengang: B.Sc. Chemie\\}
+{4. Fachsemester}
+\end{center}
+
+
+
+
+
+\thispagestyle{empty}
+\begin{center}
+{\small Matrikelnummer: 1956010 \\
+E–Mail:  bt725206@myubt.de}
+\end{center}
+
+\vspace{5cm}
+
+\today
+
+
+\newpage
+%Inhaltsverzeichnis
+\tableofcontents
+\thispagestyle{empty}
+
+
+%Teil 1
+\newpage
+\setcounter{page}{1}
+\section{Einleitung}
+
+
+
+\subsection{Einführung}
+
+
+{Magnetismus ist eine Eigenschaft, die auf der Anordnung der Elektronenspins beruht. Diese Spins erzeugen ein magnetisches Moment. Wenn sich die magnetischen Momente innerhalb
+ eines Atoms gegenseitig aufheben, ist der Stoff diamagnetisch. Besitzt ein Atom hingegen ein resultierendes magnetisches Moment, ist der Stoff paramagnetisch.\\
+\noindent
+Paramagnetische Stoffe lassen sich weiter in Ferromagnete, Ferrimagnete und Antiferromagnete unterteilen:
+\begin{enumerate}
+    \item Bei Ferromagneten richten sich alle magnetischen Momente parallel zueinander aus, wodurch ein starkes makroskopisches Magnetfeld entsteht.
+    \item Bei Ferrimagneten sind die magnetischen Momente zwar auch geordnet, jedoch in entgegengesetzten Richtungen mit unterschiedlicher Stärke ausgerichtet. Dadurch bleibt ein resultierendes magnetisches Moment bestehen, das jedoch schwächer ist als bei Ferromagneten.
+    \item In Antiferromagneten sind die magnetischen Momente benachbarter Atome entgegengesetzt und gleich stark ausgerichtet, wodurch sie sich gegenseitig vollständig aufheben. Das resultierende magnetische Moment ist somit nazu null.
+\end{enumerate}
+\noindent
+Ziel des Versuchs ist es, Magnetit, Maghemit und Hämatit herzustellen und ihre magnetischen Eigenschaften zu untersuchen. \cite{Skript}
+}
+
+
+\newpage
+%Teil2
+\section{Durchführung}
+\subsection{Darstellung von Magnetit}
+Es werden 3.001 g (15.09 mmol) \ce{FeCl2}$\cdot$\ce{4 H2O} in 75 mL Wasser gelöst. Anschließend wird 30 mL einer 1 Molarer (2.599 g/ 65mmol in 65 mL Wasser) NaOH
+unter kräftigen Rühren hinzugegeben. Nach 35 min wird der Niederschlag abgenutscht und getrocknet.
+
+\subsection{Darstellung von Maghemit}
+Ein Teil des Hergestellten Magnetits wird für 2 h bei 250 °C getempert.
+
+\subsection{Darstellung von Hämatit}
+Ein Teil des Maghemit wird für 10 h bei 700°C getempert.\footnote{Hier sollte eigentlich nur für 2 h getempert werden, aufgrund eines Fehlers wurde für 10 h getempert.}
+
+
+\newpage
+\section{Auswertung}
+\subsection{Ergebnisse}
+\subsection{Diskussion}
+
+
+
+\newpage
+\section{Zusammenfassung}
+
+
+
+
+\newpage
+\section{Literaturverzeichnis}
+\printbibliography
+
+
+
+
+
+
+
+\end{document}

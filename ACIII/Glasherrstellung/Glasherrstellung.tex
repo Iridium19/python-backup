@@ -1,0 +1,174 @@
+\documentclass[12pt, a4paper]{article}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+\usepackage[ngerman]{babel}
+\usepackage{mathptmx}
+\usepackage{blindtext}
+\usepackage{emptypage}
+\usepackage{wrapfig}
+\usepackage[pdftex]{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[version=4,arrows=pgf-filled,
+textfontname=sffamily,
+mathfontname=mathsf]{mhchem}
+\usepackage[table]{xcolor}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{float}
+\usepackage{mathcomp}
+\usepackage{csquotes}
+\usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
+\addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\textsuperscript{\printfield{labelnumber}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ top=25mm,
+ }
+\setstretch{1.213}
+
+
+\newcommand{\datum}{\day.\month.\year}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg} 
+
+\begin{document}
+
+
+\begin{figure}
+    \includegraphics[scale=0.14]{Universität_Bayreuth.svg.png}
+\end{figure}
+
+
+%Deckblatt
+
+{\raggedright Universität Bayreuth\\  95447 Bayreuth}
+
+
+\vspace{5cm}
+
+\begin{center}
+{\LARGE\bf{Anorganische Chemie III}} \\  
+\vspace{1cm}
+{\Large\bf{Glassherstellung}}\\
+\vspace{0.5cm}
+{\large Justus Friedrich\\}
+{Studiengang: B.Sc. Chemie\\}
+{4. Fachsemester}
+\end{center}
+
+
+
+
+
+\thispagestyle{empty}
+\begin{center}
+{\small Matrikelnummer: 1956010 \\
+E–Mail:  bt725206@myubt.de}
+\end{center}
+
+\vspace{5cm}
+
+\today
+
+
+\newpage
+%Inhaltsverzeichnis
+\tableofcontents
+\thispagestyle{empty}
+
+
+%Teil 1
+\newpage
+\setcounter{page}{1}
+\section{Einleitung}
+
+
+
+\subsection{Motivation}
+Gläser besitzen in der Regel interessante physikalische und chemische Eigenschaften. Diese resultieren aus ihrer amorph strukturierten Anordnung, 
+bei der keine langfristige, regelmäßige Kristallstruktur vorliegt. In diesem Experiment sollen Gläser mit unterschiedlichen Konzentrationen von Netzwerkbildnern und Netzwerkwandlern 
+hergestellt werden. Anschließend wird der Verknüpfungsgrad der Netzwerkbildner analysiert, um Rückschlüsse auf die Struktur und Eigenschaften des Glases ziehen zu können. \cite{Skript}
+
+\newpage
+%Teil2
+\section{Durchführung}
+\subsection{Synthese der Verschieden Gläser}
+Es werden sieben verschiedene Glaszusammensetzungen hergestellt. Die dafür benötigten Massen der Ausgangsstoffe, um 2 g Glass zu bekommen, werden der Tabelle \ref{Verhältnisse} entnommen. Die jeweiligen Komponenten werden sorgfältig miteinander vermörsert und anschließend in Quarztiegel überführt.
+\noindent
+Die Proben werden zunächst über 2 Stunden auf 200 °C erhitzt und bei dieser Temperatur für weitere 2 Stunden gehalten. Danach erfolgt eine weitere Aufheizung auf 800 °C über 2 Stunden, gefolgt von einem Halten bei dieser Temperatur für weitere 2 Stunden.
+\noindent
+Anschließend werden die Gläser durch Abschrecken bei Raumtemperatur (Quenching) verfestigt. Dazu werden sie in einen Exsikkator unter Schutzglas überführt.
+
+
+\begin{table}[!h]
+  \caption{Zeigt die Mol Verhältnisse der Produkte im Glas, und die dafür nötigen Eduktmassen und deren Mol Anzahl. Die Berrechungen für die Mol-Anzahl sind in Gleichung (1) und (2) dargestellt.}
+  \begin{center}
+    \begin{tabular}{|>{\centering\arraybackslash}p{2.3cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{1cm}|}
+      \hline
+      \rowcolor{gray}
+      \cellcolor{lime}Mol\% \ce{Na2O} & 30\% & 35\% & 40\% & 45\% & 50\% & 55\% & 60\% & 70\% \\
+      \hline
+      \rowcolor{yellow}
+       \cellcolor{lime}Masse \ce{Na2CO3} [g]&0.54&0.66&0.77&0.90&1.04&1.19&1.35&1.73 \\
+      \hline
+       \cellcolor{lime}Mol \ce{Na2CO3} [mmol]&5.09&6.23&7.26&8.49&9.81&11.2&12.7&16.3 \\
+      \hline
+      \rowcolor{gray}
+       \cellcolor{lime}Mol\% \ce{P2O5} & 70\% & 65\% & 60\% & 55\% & 50\% & 45\% & 40\% & 30\% \\
+      \hline
+      \rowcolor{yellow}      
+       \cellcolor{lime}Masse \ce{NH4H2PO4} [g]&2.73&2.61&2.51&2.39&2.26&2.11&1.95&2.61 \\
+      \hline
+       \cellcolor{lime}Mol \ce{NH4H2PO4} [mmol]&23.7&22.7&21.8&20.8&19.6&18.34&16.9&13.9 \\
+      \hline
+    \end{tabular}
+  \end{center}
+
+  \label{Verhältnisse}
+\end{table}
+
+\subsection{Gleichungen zur Berechnung}
+\begin{equation}
+  \frac{2 g}{M(\ce{Na2O})+\frac{mol\%  (\ce{P2O5})}{mol\%  (\ce{Na2O})}\cdot M(\ce{P2O5})}= n(\ce{Na2CO3})
+\end{equation}
+
+\begin{equation}
+  n(\ce{NH4H2PO4})= 2 \cdot n(\ce{Na2CO3})
+\end{equation}
+
+
+
+\newpage
+\section{Auswertung}
+\subsection{Ergebnisse}
+\subsection{Diskussion}
+
+
+
+\newpage
+\section{Zusammenfassung}
+
+
+
+
+\newpage
+\section{Literaturverzeichnis}
+\printbibliography
+
+
+
+
+
+
+
+\end{document}
