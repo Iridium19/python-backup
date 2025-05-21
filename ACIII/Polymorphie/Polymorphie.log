@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  21 MAY 2025 18:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  21 MAY 2025 19:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1006,7 +1006,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5.
+ (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+))
 \tf@toc=\write6
 \openout6 = `Polymorphie.toc'.
 
@@ -1018,23 +1021,31 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106 \newpage
+l.103 \newpage
                [1]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \newpage
-               [2]
+l.150 \newpage
+               [2
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.150 \newpage
+              ]
 
 [3]
 
 [4]
-
-LaTeX Warning: Empty bibliography on input line 132.
-
-
 
 [5] (Polymorphie.aux)
  ***********
@@ -1042,23 +1053,23 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `Polymorphie.out' has not changed.
-(rerunfilecheck)             Checksum: 3DD733247C65D6F9953B28C59928113D;1202.
+(rerunfilecheck)             Checksum: 2C35369B5860397FDC53E068DAD0847D;1239.
 Package logreq Info: Writing requests to 'Polymorphie.run.xml'.
 \openout1 = `Polymorphie.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31071 strings out of 469941
- 601130 string characters out of 5468947
- 1452096 words of memory out of 5000000
- 57367 multiletter control sequences out of 15000+600000
- 648020 words of font info for 77 fonts, out of 8000000 for 9000
+ 31380 strings out of 469941
+ 606925 string characters out of 5468947
+ 1468348 words of memory out of 5000000
+ 57646 multiletter control sequences out of 15000+600000
+ 666604 words of font info for 118 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 95i,7n,113p,749b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Polymorphie.pdf (7 pages, 58504 bytes).
+ 95i,15n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Polymorphie.pdf (7 pages, 115401 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
  98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
