@@ -415,6 +415,9 @@ INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\Justus\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
@@ -459,7 +462,6 @@ INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\psyro.
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7t.vf
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
-INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7m.vf
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\psyro.tfm
@@ -467,7 +469,6 @@ INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.t
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7t.vf
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\zptmcm7v.vf
 INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
@@ -480,7 +481,6 @@ INPUT .\Hec2.png
 INPUT .\Hec2.png
 INPUT .\Hec2.png
 INPUT .\Hec2.png
-INPUT C:\Users\Justus\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT tonmieneral.aux
 INPUT .\tonmieneral.out
 INPUT .\tonmieneral.out
