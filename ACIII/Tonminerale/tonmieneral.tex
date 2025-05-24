@@ -157,8 +157,7 @@ Die daraus erhaltenen Werte werden mit den in Abbildung \ref{Hec1} dargestellten
    \hline
    $d_{005}$ [\AA]&2.493874& 2.63185\\
    \hline
-   $d_{006}$ [\AA]&2.078228& 1.85851\\
-   \hline
+  
 
 \end{tabular}
 \label{VergleichHec1}
@@ -167,20 +166,65 @@ Die daraus erhaltenen Werte werden mit den in Abbildung \ref{Hec1} dargestellten
 \noindent
 Aus den experimentellen Werten in Tabelle \ref{d00n} wird der Mittelwert gemäß Formel \ref{Mittelwert} berechnet.
 \begin{equation}
-  \overline{d}=\frac{\sum_{i}^{n}d_{00i}\cdot i}{n}=12.595
+  \overline{d}=\frac{\sum_{i}^{n}d_{00i}\cdot i}{n}=12.783
   \label{Mittelwert}
 \end{equation}
 \noindent
-Zur Berechnung des Variationskoeffizienten werden die Gleichungen \ref{CV1} und \ref{CV2} herangezogen.
-Bei Gleichung \ref{CV1} werden die Werte von $d_{001}$ nicht berücksichtigt, da es sich bei dem „berechneten“ Wert, eigentlich um einen experimentellen Wert handelt.
+Zur Berechnung des Variationskoeffizienten CV werden die Gleichungen \ref{CV1} und \ref{CV2} herangezogen.
 \begin{equation}
-  \sqrt{\frac{\sum_{i}^{n}(d_{00i \enspace experimentell} - d_{{00i}\enspace{berechnet}})^2}{n-1}} =
+  \sqrt{\frac{\sum_{i}^{n}(d_{00i} \cdot i - \overline{d})^2}{n-1}} = 0.612
   \label{CV1}
 \end{equation}
 \begin{equation}
-  \sqrt{2}
+  CV = \frac{100 \cdot 0.612}{12.783} = 4.788 \%
   \label{CV2}
 \end{equation}
+\noindent
+Somit beträgt die Schichtdicke des Hectorits \(12.783\,\text{\AA} \pm 4.788\,\%\). 
+Die Synthese des Hectorits war zwar erfolgreich, jedoch treten im XRD auch Fremdreflexe auf. 
+Diese stammen vermutlich von nicht vollständig umgesetztem \(\ce{ZnSiO4}\), was wahrscheinlich auf eine nicht vollständige umgesetztem der Fluoridsalze am 3. Tag schließen lässt.
+
+\newpage
+\subsection{Schichtdicke der Interkalationsverbindung}
+
+Um die Schichtdicke der Interkalationsverbindung zu bestimmen, wird wie in Abschnitt 3.1 vorgegangen. Das XRD wird in der Abbildung \ref{Hec2} abgebildet. In der Tabelle \ref{VergleichHec2} werden wieder die The
+
+
+\begin{figure}[!h]
+  \includegraphics[scale=0.5]{Hec2.png}
+  \caption{Zeigt das Pulverdiffraktogramm des Hectorits, dabei sind die Reflexe mit den Abstand der $d_{00n}$ Serie markiert.}
+  \label{Hec2}
+\end{figure}
+
+\begin{table}[h!]
+\caption{\textit{Vergleich der aus Gleichung \ref{d00n} berechneten theoretischen Werte mit den experimentell bestimmten Werten aus Abbildung \ref{Hec1}.}}
+\begin{center}
+\begin{tabular}{|>{\columncolor{lightgray}}p{4cm}|>{\centering\arraybackslash}p{4cm}|>{\centering\arraybackslash}p{4cm}|}
+   \hline
+   \rowcolor{gray}
+   &Berrechnete Werte& experimentellen Werte \\
+   \hline
+   $d_{001}$ [\AA]&12.46937& 12.46937\\
+   \hline
+   $d_{002}$ [\AA]&6.234685& Konnte nicht zugeordnet werden\\
+   \hline
+   $d_{003}$ [\AA]&4.156457& 4.56099\\
+   \hline
+   $d_{004}$ [\AA]&3.117343& 3.12766\\
+   \hline
+   $d_{005}$ [\AA]&2.493874& 2.63185\\
+   \hline
+  
+
+\end{tabular}
+\label{VergleichHec2}
+\end{center}
+\end{table}
+
+
+
+
+
 
 
 
@@ -208,4 +252,4 @@ Bei Gleichung \ref{CV1} werden die Werte von $d_{001}$ nicht berücksichtigt, da
 
 
 
-\end{document}
+\end{documen
