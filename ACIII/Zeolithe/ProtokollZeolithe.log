@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  18 MAY 2025 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 14:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -843,12 +843,12 @@ Package biblatex Info: ... and expl3
  (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Redefining '\cite' on input line 23.
+Package biblatex Info: Redefining '\cite' on input line 24.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 43.
  (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (ProtokollZeolithe.aux
@@ -857,24 +857,24 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `ProtokollZeolithe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
@@ -929,7 +929,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `default' on line 42.
+Package chemgreek Info: Activating mapping `default' on line 43.
 
 (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -938,7 +938,7 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowwidth=\dimen292
 \pgfarrowlinewidth=\dimen293
 )
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 43.
  (ProtokollZeolithe.out) (ProtokollZeolithe.out)
 \@outlinefile=\write5
 \openout5 = `ProtokollZeolithe.out'.
@@ -965,12 +965,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ProtokollZeolithe.bbl' found.
  (ProtokollZeolithe.bbl)
-Package biblatex Info: Reference section=0 on input line 42.
-Package biblatex Info: Reference segment=0 on input line 42.
+Package biblatex Info: Reference section=0 on input line 43.
+Package biblatex Info: Reference segment=0 on input line 43.
 <Universität_Bayreuth.svg.png, id=54, 1204.5pt x 372.39125pt>
 File: Universität_Bayreuth.svg.png Graphic file (type png)
 <use Universität_Bayreuth.svg.png>
-Package pdftex.def Info: Universität_Bayreuth.svg.png  used on input line 46.
+Package pdftex.def Info: Universität_Bayreuth.svg.png  used on input line 47.
 (pdftex.def)             Requested size: 168.62885pt x 52.13441pt.
 
 
@@ -1011,9 +1011,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \newpage
+l.114 \newpage
                [1]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 120.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 121.
  (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1022,12 +1022,12 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.158 \newpage
+l.159 \newpage
                [2]
 <Screenshot 2025-05-17 133057.png, id=94, 845.40843pt x 502.87875pt>
 File: Screenshot 2025-05-17 133057.png Graphic file (type png)
 <use Screenshot 2025-05-17 133057.png>
-Package pdftex.def Info: Screenshot 2025-05-17 133057.png  used on input line 167.
+Package pdftex.def Info: Screenshot 2025-05-17 133057.png  used on input line 168.
 (pdftex.def)             Requested size: 422.70317pt x 251.43875pt.
 
 
@@ -1051,13 +1051,13 @@ Package logreq Info: Writing requests to 'ProtokollZeolithe.run.xml'.
 Here is how much of TeX's memory you used:
  31355 strings out of 469941
  607424 string characters out of 5468947
- 1458546 words of memory out of 5000000
+ 1458534 words of memory out of 5000000
  57626 multiletter control sequences out of 15000+600000
  659291 words of font info for 102 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  95i,14n,113p,1203b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ProtokollZeolithe.pdf (8 pages, 181215 bytes).
+Output written on ProtokollZeolithe.pdf (8 pages, 181206 bytes).
 PDF statistics:
  167 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)

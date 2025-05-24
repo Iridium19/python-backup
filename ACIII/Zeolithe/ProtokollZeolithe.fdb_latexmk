@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber ProtokollZeolithe"] 1747485698.88349 "ProtokollZeolithe.bcf" "ProtokollZeolithe.bbl" "ProtokollZeolithe" 1747570366.16213 0
-  "ProtokollZeolithe.bcf" 1747570365 108247 7be96f7a62525432a61ca419b8fdb343 "pdflatex"
+["biber ProtokollZeolithe"] 0 "ProtokollZeolithe.bcf" "ProtokollZeolithe.bbl" "ProtokollZeolithe" 1748088995.64973 -1
+  "ProtokollZeolithe.bcf" 1748088995 108247 7be96f7a62525432a61ca419b8fdb343 "pdflatex"
   "literatur.bib" 1746629354 2583 df2e20768e0127dc2af17a89bbd1684f ""
   (generated)
   "ProtokollZeolithe.bbl"
   "ProtokollZeolithe.blg"
   (rewritten before read)
-["pdflatex"] 1747570363.48968 "c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex" "ProtokollZeolithe.pdf" "ProtokollZeolithe" 1747570366.16313 0
+["pdflatex"] 1748088992.91483 "c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex" "ProtokollZeolithe.pdf" "ProtokollZeolithe" 1748088995.6507 0
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747484129 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1745925866 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
@@ -217,15 +217,15 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "ProtokollZeolithe.aux" 1747570365 3039 f59cf847a9ebc2ee768748545e549892 "pdflatex"
+  "ProtokollZeolithe.aux" 1748088995 3039 f59cf847a9ebc2ee768748545e549892 "pdflatex"
   "ProtokollZeolithe.bbl" 1747485701 5244 571584f7d8c16793ce8d8235e3d954b0 "biber ProtokollZeolithe"
-  "ProtokollZeolithe.out" 1747570365 1511 8a8840edfb69140b24487d6e77352621 "pdflatex"
-  "ProtokollZeolithe.run.xml" 1747570365 2530 9929f62a1764c1cd6f57af1765e85ec2 "pdflatex"
-  "ProtokollZeolithe.tex" 1747570360 6409 a500ba87bfa8f5a94a4dd41cb2485bc4 ""
-  "ProtokollZeolithe.toc" 1747570365 948 3ff6bad0631e00d149eddfafc73b781c "pdflatex"
+  "ProtokollZeolithe.out" 1748088995 1511 8a8840edfb69140b24487d6e77352621 "pdflatex"
+  "ProtokollZeolithe.run.xml" 1748088995 2530 9929f62a1764c1cd6f57af1765e85ec2 "pdflatex"
+  "ProtokollZeolithe.tex" 1748088992 6435 d4e2e55b4a7c228ea71b230f9f7f1be7 ""
+  "ProtokollZeolithe.toc" 1748088995 948 3ff6bad0631e00d149eddfafc73b781c "pdflatex"
   "Screenshot 2025-05-17 133057.png" 1747481458 50274 7c4ef05f48cc2e7fc2a1caaac3262a68 ""
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex" 1747570360 6409 a500ba87bfa8f5a94a4dd41cb2485bc4 ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex" 1748088992 6435 d4e2e55b4a7c228ea71b230f9f7f1be7 ""
   (generated)
   "ProtokollZeolithe.aux"
   "ProtokollZeolithe.bcf"
