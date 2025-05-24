@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,18 +1027,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.121 \newpage
                [2]
-<Hec1.png, id=67, 909.3975pt x 529.22719pt>
+<Hec1.png, id=67, 919.18407pt x 547.2947pt>
 File: Hec1.png Graphic file (type png)
 <use Hec1.png>
 Package pdftex.def Info: Hec1.png  used on input line 127.
-(pdftex.def)             Requested size: 454.69765pt x 264.61295pt.
+(pdftex.def)             Requested size: 459.59091pt x 273.64667pt.
 
 
 [3 <./Hec1.png>]
 
 [4]
 
-[5] (tonmieneral.aux)
+[5]
+
+[6] (tonmieneral.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -1050,17 +1052,17 @@ Package logreq Info: Writing requests to 'tonmieneral.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31289 strings out of 469941
- 605395 string characters out of 5468947
- 1453022 words of memory out of 5000000
- 57565 multiletter control sequences out of 15000+600000
- 666192 words of font info for 120 fonts, out of 8000000 for 9000
+ 31305 strings out of 469941
+ 605603 string characters out of 5468947
+ 1457602 words of memory out of 5000000
+ 57573 multiletter control sequences out of 15000+600000
+ 666970 words of font info for 123 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 95i,9n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tonmieneral.pdf (7 pages, 142440 bytes).
+ 95i,13n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tonmieneral.pdf (8 pages, 170451 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
