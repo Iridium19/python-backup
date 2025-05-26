@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Glasherrstellung"] 1748268828.84207 "Glasherrstellung.bcf" "Glasherrstellung.bbl" "Glasherrstellung" 1748276441.5281 0
-  "Glasherrstellung.bcf" 1748276441 108328 78fc45b5672fe80993f298f87919a9d5 "pdflatex"
+["biber Glasherrstellung"] 1748277895.28113 "Glasherrstellung.bcf" "Glasherrstellung.bbl" "Glasherrstellung" 1748278910.16882 0
+  "Glasherrstellung.bcf" 1748278909 108541 bf86e919b4bf8b5d6b3a48cbef267d17 "pdflatex"
   "literatur.bib" 1748262691 2459 e08ff36969cff0bfc2fa118b12e86314 ""
   (generated)
   "Glasherrstellung.bbl"
   "Glasherrstellung.blg"
   (rewritten before read)
-["pdflatex"] 1748276436.19193 "c:/Users/Justus/Desktop/Python/ACIII/Glasherrstellung/Glasherrstellung.tex" "Glasherrstellung.pdf" "Glasherrstellung" 1748276441.52901 0
+["pdflatex"] 1748278904.46845 "c:/Users/Justus/Desktop/Python/ACIII/Glasherrstellung/Glasherrstellung.tex" "Glasherrstellung.pdf" "Glasherrstellung" 1748278910.16974 0
   "30pro.png" 1748257094 25414 e569ac97e2e12e1787e8b869af440b71 ""
   "35pro.png" 1748257178 27970 bcd379356fd599d6c10cb70e88badcc5 ""
   "40pro.png" 1748257248 27139 03fef7422e5a60ab0db7ad0cbf9c5575 ""
@@ -232,16 +232,17 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Glasherrstellung.aux" 1748276441 5742 5db7424820a9058032dc40d1f85ab040 "pdflatex"
-  "Glasherrstellung.bbl" 1748268831 5427 5f7044310e8a230537c95ddefaf8d3c6 "biber Glasherrstellung"
-  "Glasherrstellung.out" 1748276441 1427 db6c761b63d62a45f700980be1ccb0ae "pdflatex"
-  "Glasherrstellung.run.xml" 1748276441 2523 f3ca6d35853a7f8dfd656545c21b686c "pdflatex"
-  "Glasherrstellung.tex" 1748276431 10892 7bdf9cbb438ee675f58ebfb9cf440bbf ""
-  "Glasherrstellung.toc" 1748276441 829 280573c3cc660aaad052764e8447d27e "pdflatex"
+  "Glasherrstellung.aux" 1748278909 6449 756b565ff8dbec1c30da9a7197f015f3 "pdflatex"
+  "Glasherrstellung.bbl" 1748277897 5427 5f7044310e8a230537c95ddefaf8d3c6 "biber Glasherrstellung"
+  "Glasherrstellung.out" 1748278909 1427 db6c761b63d62a45f700980be1ccb0ae "pdflatex"
+  "Glasherrstellung.run.xml" 1748278909 2523 f3ca6d35853a7f8dfd656545c21b686c "pdflatex"
+  "Glasherrstellung.tex" 1748278898 13179 62a1e00b07fb9104ffc9bf352797c80c ""
+  "Glasherrstellung.toc" 1748278909 829 ff852f51f6ffeaf86065b5360e781ea0 "pdflatex"
   "NMR-spectra-2024-g1.png" 1748097709 229284 f07055cf97e2b3ab2896d18f07b53334 ""
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Glasherrstellung/Glasherrstellung.tex" 1748276431 10892 7bdf9cbb438ee675f58ebfb9cf440bbf ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Glasherrstellung/Glasherrstellung.tex" 1748278898 13179 62a1e00b07fb9104ffc9bf352797c80c ""
   "nmrpeaks.png" 1748265595 50179 8322c63dc059198bcdd4cf8f9514e256 ""
+  "plot.png" 1748276732 52368 ffa4a471cf43d63e694d88e204949352 ""
   (generated)
   "Glasherrstellung.aux"
   "Glasherrstellung.bcf"

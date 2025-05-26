@@ -62,7 +62,7 @@ plt.plot(p, fitq3, color='red', label='Theorie $Q^3$')
 
 # Achsenbeschriftung & Formatierung
 plt.xlabel(r'$Na_2O$ (mol %)')
-plt.ylabel('Q-Anteil (%)')
+plt.ylabel('Anteil (%)')
 plt.xlim(0, 80)
 plt.ylim(0, 100)
 plt.legend()
