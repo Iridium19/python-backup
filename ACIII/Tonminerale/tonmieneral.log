@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 18:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  26 MAY 2025 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -967,7 +967,7 @@ Package biblatex Info: ... file 'tonmieneral.bbl' found.
  (tonmieneral.bbl)
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
-<Universität_Bayreuth.svg.png, id=38, 1204.5pt x 372.39125pt>
+<Universität_Bayreuth.svg.png, id=42, 1204.5pt x 372.39125pt>
 File: Universität_Bayreuth.svg.png Graphic file (type png)
 <use Universität_Bayreuth.svg.png>
 Package pdftex.def Info: Universität_Bayreuth.svg.png  used on input line 46.
@@ -1011,36 +1011,39 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.109 \newpage
+l.108 \newpage
                [1]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 122.
+ (C:\Users\Justus\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.121 \newpage
+l.150 \newpage
                [2]
-<Hec1.png, id=72, 919.18407pt x 547.2947pt>
+<Hec1.png, id=77, 919.18407pt x 547.2947pt>
 File: Hec1.png Graphic file (type png)
 <use Hec1.png>
-Package pdftex.def Info: Hec1.png  used on input line 127.
+Package pdftex.def Info: Hec1.png  used on input line 156.
 (pdftex.def)             Requested size: 459.59091pt x 273.64667pt.
 
 
 [3 <./Hec1.png>]
 
 [4]
-<Hec2.png, id=107, 910.15031pt x 556.32843pt>
+<Hec2.png, id=112, 910.15031pt x 556.32843pt>
 File: Hec2.png Graphic file (type png)
 <use Hec2.png>
-Package pdftex.def Info: Hec2.png  used on input line 194.
+Package pdftex.def Info: Hec2.png  used on input line 223.
 (pdftex.def)             Requested size: 455.07405pt x 278.16353pt.
 
 
@@ -1048,29 +1051,31 @@ Package pdftex.def Info: Hec2.png  used on input line 194.
 
 [6]
 
-[7] (tonmieneral.aux)
+[7]
+
+[8] (tonmieneral.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `tonmieneral.out' has not changed.
-(rerunfilecheck)             Checksum: 06EEF5B7B3D4BA21EA9A8A2CA6D2FE7A;1493.
+(rerunfilecheck)             Checksum: 1AA3EC56C89B72A93AC9325736D714F2;1741.
 Package logreq Info: Writing requests to 'tonmieneral.run.xml'.
 \openout1 = `tonmieneral.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31320 strings out of 469941
- 605792 string characters out of 5468947
- 1458891 words of memory out of 5000000
- 57584 multiletter control sequences out of 15000+600000
- 667477 words of font info for 124 fonts, out of 8000000 for 9000
+ 31350 strings out of 469941
+ 606260 string characters out of 5468947
+ 1458893 words of memory out of 5000000
+ 57608 multiletter control sequences out of 15000+600000
+ 667791 words of font info for 125 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  95i,14n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tonmieneral.pdf (9 pages, 197407 bytes).
+Output written on tonmieneral.pdf (10 pages, 202042 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 92 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 

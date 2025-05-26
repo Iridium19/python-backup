@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber tonmieneral"] 1748102517.57067 "tonmieneral.bcf" "tonmieneral.bbl" "tonmieneral" 1748102878.39526 0
+["biber tonmieneral"] 1748256621.64306 "tonmieneral.bcf" "tonmieneral.bbl" "tonmieneral" 1748256817.46591 0
   "literatur.bib" 1747151244 1227 719f347764b952c24a1a95a68b784c3a ""
-  "tonmieneral.bcf" 1748102878 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
+  "tonmieneral.bcf" 1748256817 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
   (generated)
   "tonmieneral.bbl"
   "tonmieneral.blg"
   (rewritten before read)
-["pdflatex"] 1748102874.55511 "c:/Users/Justus/Desktop/Python/ACIII/Tonminerale/tonmieneral.tex" "tonmieneral.pdf" "tonmieneral" 1748102878.39619 0
+["pdflatex"] 1748256813.49863 "c:/Users/Justus/Desktop/Python/ACIII/Tonminerale/tonmieneral.tex" "tonmieneral.pdf" "tonmieneral" 1748256817.4668 0
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747484129 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1745925866 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
@@ -16,6 +16,7 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768654 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768654 4524 6bce29db5bc272ba5f332261583fee9c ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768654 2124 2601a75482e9426d33db523edf23570a ""
+  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768654 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768654 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768654 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768654 4640 532ca3305aad10cc01d769f3f91f1029 ""
@@ -51,6 +52,7 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb" 1136849748 45458 504e2b06fa82109d168c7a0afb09e145 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmb7t.vf" 1136768654 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmr7t.vf" 1136768654 1380 0ea3a3370054be6da6acd929ec569f06 ""
+  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmr8c.vf" 1136768654 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmri7t.vf" 1136768654 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7m.vf" 1136768654 1132 27520247d3fe18d4266a226b461885c2 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/zptmcm7t.vf" 1136768654 1108 d271d6f9de4122c3f8d3b65666167fac ""
@@ -212,6 +214,7 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omxztmcm.fd" 1585253778 346 c8cddcc90b6f567b28408eb374773c9c ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ztmcm.fd" 1585253778 346 aee7226812ba4138ac67a018466b488d ""
+  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1ptm.fd" 1585253778 653 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -224,13 +227,13 @@
   "Hec1.png" 1748093300 30921 847e9a8bce196624b0b6a0cdfff01c8c ""
   "Hec2.png" 1748098914 29878 c9d777386dd29dd00a3c67b87d02007a ""
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Tonminerale/tonmieneral.tex" 1748102873 8164 97b8c2de53e37c5bd540c2267e969a0f ""
-  "tonmieneral.aux" 1748102878 3988 4344f4c5003229a1ee7c0c3a58a029fc "pdflatex"
-  "tonmieneral.bbl" 1748102519 2929 3e6e0fec34b0c6562f25abfb70dde600 "biber tonmieneral"
-  "tonmieneral.out" 1748102878 1493 06eef5b7b3d4ba21ea9a8a2ca6d2fe7a "pdflatex"
-  "tonmieneral.run.xml" 1748102878 2488 e8b521f410cfe5366ad794a2a9c2e077 "pdflatex"
-  "tonmieneral.tex" 1748102873 8164 97b8c2de53e37c5bd540c2267e969a0f ""
-  "tonmieneral.toc" 1748102878 763 11b6dcb58f3ccdb157ca7690c1aafc14 "pdflatex"
+  "c:/Users/Justus/Desktop/Python/ACIII/Tonminerale/tonmieneral.tex" 1748256812 10834 7be09434c9ec9bc59f5f5a4b0536112e ""
+  "tonmieneral.aux" 1748256817 4133 c037714892b50925bcb42e5c4a544994 "pdflatex"
+  "tonmieneral.bbl" 1748256623 2929 3e6e0fec34b0c6562f25abfb70dde600 "biber tonmieneral"
+  "tonmieneral.out" 1748256817 1741 1aa3ec56c89b72a93ac9325736d714f2 "pdflatex"
+  "tonmieneral.run.xml" 1748256817 2488 e8b521f410cfe5366ad794a2a9c2e077 "pdflatex"
+  "tonmieneral.tex" 1748256812 10834 7be09434c9ec9bc59f5f5a4b0536112e ""
+  "tonmieneral.toc" 1748256817 866 278d7e764a2fa3f29610370c6ca3bea7 "pdflatex"
   (generated)
   "tonmieneral.aux"
   "tonmieneral.bcf"

@@ -19,6 +19,8 @@ mathfontname=mathsf]{mhchem}
 \usepackage{float}
 \usepackage{mathcomp}
 \usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{subcaption}
 \usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
 \addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
 
@@ -150,8 +152,169 @@ Anschließend werden die Gläser durch Abschrecken bei Raumtemperatur (Quenching
 
 \newpage
 \section{Auswertung}
-\subsection{Ergebnisse}
-\subsection{Diskussion}
+\subsection{XRD-Analyse von Glas}
+Zunächst werden die XRDs der verschiedenen Gläser betrachtet. Dabei liegt der Fokus auf dem Vergleich der Konzentrationen und den dazugehörigen XRD-Reflexen.
+
+\begin{figure}[h]
+\centering
+
+% Erste Zeile (4 Bilder)
+\begin{subfigure}[b]{0.23\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{30pro.png}
+  \caption{30 mol \% \ce{Na2O}}
+  \label{fig:sub1}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.23\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{35pro.png}
+  \caption{35 mol \% \ce{Na2O}}
+  \label{fig:sub2}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.23\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{40pro.png}
+  \caption{40 mol \% \ce{Na2O}}
+  \label{fig:sub3}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.23\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{45pro.png}
+  \caption{45 mol \% \ce{Na2O}}
+  \label{fig:sub4}
+\end{subfigure}
+
+\vspace{0.8em}
+
+% Zweite Zeile (3 Bilder)
+\begin{subfigure}[b]{0.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{50pro.png}
+  \caption{50 mol \% \ce{Na2O}}
+  \label{fig:sub5}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{55pro.png}
+  \caption{55 mol \% \ce{Na2O}}
+  \label{fig:sub6}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth]{60pro.png}
+  \caption{60 mol \% \ce{Na2O}}
+  \label{fig:sub7}
+\end{subfigure}
+
+\caption{Zeigt die XRDs von den Verschieden \ce{Na2O} mol \%}
+\label{fig:sieben_bilder}
+\end{figure}
+
+
+\begin{figure}[!h]
+  \centering
+  \includegraphics[width=0.90\linewidth]{70pro.png}
+  \caption{Zeigt das XRD von dem Glas mit 70 \% \ce{Na2O}, mit der Referenzphase von \ce{Na3PO4} (Referenzcode 01-076-0201)}
+    \label{70pro}
+\end{figure}
+
+\noindent
+Bei den \ce{Na2O}-Konzentrationen von 30 mol \% bis 60 mol \% sind keine eindeutigen Reflexe erkennbar. Dies ist in Abbildung \ref{fig:sieben_bilder} deutlich zu sehen. Dieses Ergebnis stimmt mit der Theorie überein, da Gläser keine kristalline Struktur und somit keine Einheitszelle besitzen. Folglich können keine charakteristischen XRD-Reflexe auftreten.
+
+
+\noindent
+Bei einer Konzentration von 70 mol \% \ce{Na2O} sind eindeutige Reflexe im XRD erkennbar (siehe Abbildung \ref{70pro}). 
+Dies ist auf den hohen Anteil an Netzwerkwandlern in der Verbindung zurückzuführen, wodurch keine amorphe Struktur mehr ausgebildet werden kann.
+Als Phase wurde von dem Programm \textit{HighScore Plus} \ce{Na3PO4} identifiziert. Diese Referenzphase besitzt den Referenzcode 01-076-0201.
+
+\subsubsection{NMR-Analyse der Gläser}
+Aus den aufgenommenen \ce{^{31}P}-NMR-Spektren der Gläser sollen die Verknüpfungsgrade der \ce{PO4^3-} Anionen bestimmt werden. Hierzu werden die chemischen Verschiebungen herangezogen, die charakteristisch für die vier unterschiedlichen Verknüpfungsgrade sind. Diese chemischen Verschiebungen sind in Tabelle \ref{verschiebung} dargestellt.
+
+\renewcommand{\arraystretch}{1.3} % 1.5-facher Zeilenabstand
+
+\begin{table}[!h]
+  \caption{Zeigt die verschiedenen chemischen Verschiebungen im \ce{^{31}P}-NMR.\cite{Kirkpatrick.1995}}
+  \centering
+  \begin{tabular}{|>{\centering\arraybackslash}p{0.4\linewidth}|>{\centering\arraybackslash}p{0.4\linewidth}|}
+    \hline
+    \rowcolor{lightgray}
+    Verknüpfungsgrad&chemische Verschiebung \\
+    \hline
+    $Q^0$&12 bis 15 ppm \\
+    \hline
+    $Q^1$& -7 bis 6 ppm\\
+    \hline
+    $Q^2$& -33 bis -16 ppm \\
+    \hline
+    $Q^3$& -33 bis -55 ppm\\
+    \hline
+
+  \end{tabular}
+
+\label{verschiebung}
+\end{table}
+\noindent
+Die in Abbildung \ref{nmrspektrums} dargestellten \ce{^{31}P}-NMR-Spektren zeigen die verschiedenen Peaks, die den jeweiligen Verknüpfungsgraden der \ce{PO4^{3-}}-Einheiten zugeordnet werden können. Aus den Integralen dieser Peaks lässt
+ sich der prozentuale Anteil der einzelnen Verknüpfungsarten quantitativ bestimmen.
+
+
+\begin{figure}[!h]
+  \centering
+  \includegraphics[scale=0.3]{NMR-spectra-2024-g1.png}
+  \caption{Zeigt die NMR-Spektren der Verschieden Gläser}
+  \label{nmrspektrums}
+\end{figure}
+
+\noindent
+Die Integrale und Peak-Positionen sind in Tabelle \ref{peaks} zusammengefasst.
+\newpage
+
+\begin{table}
+  \caption{Darstellung der unterschiedlichen Zusammensetzungen der Gläser in Kombination mit den jeweiligen \ce{^{31}P}-NMR-Peaks und den entsprechenden Integralen.}
+  \includegraphics[width=\linewidth]{nmrpeaks.png}
+  \label{peaks}
+
+\end{table}
+\noindent
+Die in Tabelle \ref{peaks} aufgeführten Integrale dienen als Grundlage für die Berechnung der relativen Anteile der einzelnen Verknüpfungsgrade. Die Ergebnisse dieser Umrechnung sind in der 
+Tabelle \ref{anteileee} zusammengefasst.
+
+\begin{table}[!h]
+  \caption{Zeigt den Anteil der Verknüpfungsgraden in Abhänigkeit der Zusammensetzung der Gläser.}
+  \centering
+  \begin{tabular}{|>{\centering\arraybackslash}p{4cm}|>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+    \hline
+    \rowcolor{lightgray}
+    Zusammensetzung \ce{Na2O} / \ce{P2O5} [mol \%]&Anteil $Q^0$ [\%]&Anteil $Q^1$ [\%]&Anteil $Q^2$ [\%]&Anteil $Q^3$ [\%]\\
+    \hline
+    30 / 70&-&-&40&60\\
+    \hline
+    35 / 65&-&-&37.6&62.4\\
+    \hline
+    40 / 60&-&-&54.1&45.9\\
+    \hline
+    45 / 55&-&-&70.7&29.3\\
+    \hline
+    50 / 50&-&-&96.1&3.9\\
+    \hline
+    55 / 45&-&16.2&83.8&-\\
+    \hline
+    60 / 40&-&19.6&80.4&-\\
+    \hline
+    70 / 30&57.0&43.0&-&-\\
+    \hline
+
+
+  \end{tabular}
+  \label{anteileee}
+\end{table}
+test 
+
 
 
 

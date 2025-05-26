@@ -50,6 +50,44 @@
       \field{pages}{55\bibrangedash 63\bibrangessep 82\bibrangedash 88}
       \range{pages}{16}
     \endentry
+    \entry{Kirkpatrick.1995}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=78af4c3b8482c7f264eb04db568c1d3e}{%
+           family={Kirkpatrick},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=686db41e1eaea1213adab365c128caa7}{%
+           family={Brow},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{fullhash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{fullhashraw}{b8c6121a51293184d296b8dca697e05b}
+      \strng{bibnamehash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{authorbibnamehash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{authornamehash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{authorfullhash}{b8c6121a51293184d296b8dca697e05b}
+      \strng{authorfullhashraw}{b8c6121a51293184d296b8dca697e05b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a review of the nuclear magnetic resonance (NMR) data for phosphate and phosphate-containing glasses obtained primarily within the past 10 years and of the structural interpretations based on those data. Compositions discussed include P2O5, alkali and alkaline earth phosphates, aluminophosphates, borophosphates, fluorophosphates, and phosphate-containing silicate and aluminosilicate glasses. 31P NMR data, in conjunction with 27Al, 29Si, 11B, 7Li, and 23Na data if appropriate, have proven very powerful in providing direct evidence about the local structural environments present in the these materials and in many cases have allowed interpretation of the physical and chemical behavior of these glasses in terms of polyhedral structures.}
+      \field{issn}{0926-2040}
+      \field{journaltitle}{Solid state nuclear magnetic resonance}
+      \field{number}{1}
+      \field{title}{Nuclear magnetic resonance investigation of the structures of phosphate and phosphate-containing glasses: a review}
+      \field{volume}{5}
+      \field{year}{1995}
+      \field{pages}{9\bibrangedash 21}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/0926-2040(95)00042-o
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
