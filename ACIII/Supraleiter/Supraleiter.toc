@@ -6,7 +6,6 @@
 \contentsline {subsection}{\numberline {2.1}Synthese von $YBa_2Cu_3O_{6-7}$}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Charakterisierung}{2}{subsection.2.2}%
 \contentsline {section}{\numberline {3}Auswertung}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Ergebnisse}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Diskussion}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.1}Phasenanalyse}{3}{subsection.3.1}%
 \contentsline {section}{\numberline {4}Zusammenfassung}{4}{section.4}%
 \contentsline {section}{\numberline {5}Literaturverzeichnis}{5}{section.5}%

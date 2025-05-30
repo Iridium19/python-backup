@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Magnetphase"] 0 "Magnetphase.bcf" "Magnetphase.bbl" "Magnetphase" 1748353028.21547 -1
-  "Magnetphase.bcf" 1748353027 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
+["biber Magnetphase"] 1748538947.53403 "Magnetphase.bcf" "Magnetphase.bbl" "Magnetphase" 1748539365.06365 0
+  "Magnetphase.bcf" 1748539364 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
   "literatur.bib" 1747833057 1289 4fe44b34ced88b3a37e00616d59f5d24 ""
   (generated)
   "Magnetphase.bbl"
   "Magnetphase.blg"
   (rewritten before read)
-["pdflatex"] 1748353025.2904 "c:/Users/Justus/Desktop/Python/ACIII/Magnetphasen/Magnetphase.tex" "Magnetphase.pdf" "Magnetphase" 1748353028.21643 0
+["pdflatex"] 1748539362.16791 "c:/Users/Justus/Desktop/Python/ACIII/Magnetphasen/Magnetphase.tex" "Magnetphase.pdf" "Magnetphase" 1748539365.06456 0
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748257889 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1745925866 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
@@ -222,14 +222,14 @@
   "Maghemit.png" 1748347276 12177 d59b314808c94118c3f2b990774ae2aa ""
   "Magnehit.png" 1748345968 21271 26029f4eb7c60477c72bb448df11a208 ""
   "Magnetit.png" 1748339307 21136 94f0ba350057b420270f7424b42a20c4 ""
-  "Magnetphase.aux" 1748353027 7031 f7e39a299d0be4c0b997a8e35ac567ce "pdflatex"
-  "Magnetphase.bbl" 1748350843 2928 e7170da51b0146cb4295ce4ef62bb5e2 "biber Magnetphase"
-  "Magnetphase.out" 1748353027 2802 1c153b263de88822907a90fa4bf49b48 "pdflatex"
-  "Magnetphase.run.xml" 1748353027 2488 897167ee4275df5f8367a8deae5f358e "pdflatex"
-  "Magnetphase.tex" 1748353024 15241 ad0318b74791f1de53b8671cc6fc30cb ""
-  "Magnetphase.toc" 1748353027 1526 970919d0decc4c365f1d471bc9303ae1 "pdflatex"
+  "Magnetphase.aux" 1748539364 7031 f7e39a299d0be4c0b997a8e35ac567ce "pdflatex"
+  "Magnetphase.bbl" 1748538949 2928 e7170da51b0146cb4295ce4ef62bb5e2 "biber Magnetphase"
+  "Magnetphase.out" 1748539364 2802 1c153b263de88822907a90fa4bf49b48 "pdflatex"
+  "Magnetphase.run.xml" 1748539364 2488 897167ee4275df5f8367a8deae5f358e "pdflatex"
+  "Magnetphase.tex" 1748539361 16629 35dd1dc189a1895a78756af246f0702a ""
+  "Magnetphase.toc" 1748539364 1526 970919d0decc4c365f1d471bc9303ae1 "pdflatex"
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Magnetphasen/Magnetphase.tex" 1748353024 15241 ad0318b74791f1de53b8671cc6fc30cb ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Magnetphasen/Magnetphase.tex" 1748539361 16629 35dd1dc189a1895a78756af246f0702a ""
   "diagramm.png" 1748348228 88459 8c797ff47854925a6f101286e6769135 ""
   "testmagnet.jpg" 1748350975 102917 eebe832281681e7f1e014955fdd05755 ""
   (generated)
