@@ -132,6 +132,122 @@ ein Magneten gegeben.
 \newpage
 \section{Auswertung}
 \subsection{Phasenanalyse}
+Es wird zunächst über eine XRD-Messung die Phasen bestimmt, die im Supraleiter vorliegen. Das XRD wird in Abbildung \ref{xrdsupraleiter} dargestellt.
+
+\begin{figure}[!h]
+  \includegraphics[width=\linewidth]{Supraleiter.png}
+  \caption{Dargestellt sind die gemessenen Reflexe der hergestellten Probe \ce{YBa2Cu3O_{7-\delta}}. Zum Vergleich sind die Referenzreflexe von \ce{YBa2Cu3O_{6.54}} (Referenzcode 01-078-1974) mit angegeben.}
+  \label{xrdsupraleiter}
+\end{figure}
+
+\noindent
+Der hergestellte Supraleiter ist Phasenrein. \textit{HighScore Plus} ist sich nur unsicher, wie viel Sauerstoff eingelagert ist. Dabei sind die vorgefunden Oxidationsgraden in Tabelle \ref{Referenzcodesssss} dargestellt.
+
+\begin{table}[!h]
+  \caption{Zeigt die gefundnen Oxidationsgraden mit Referenzcodes, \textit{HighScore Plus} Score und Elementarzellenvolumen.}
+  \centering
+  \begin{tabular}{|>{\centering\arraybackslash}p{0.22\linewidth}|>{\centering\arraybackslash}p{0.22\linewidth}|>{\centering\arraybackslash}p{0.22\linewidth}|>{\centering\arraybackslash}p{0.22\linewidth}|}
+    \hline
+    \rowcolor{lightgray}
+    Oxidationsgrad & Referenzcode & Score & Elementarzellen-Volumen \\
+    \hline
+    \ce{YBa2Cu3O_{6.50}}&01-082-1603& 43 & 173.855\\
+    \hline
+    \ce{YBa2Cu3O_{6.54}}&01-078-1974& 78 & 172.95\\
+    \hline
+    \ce{YBa2Cu3O_{6.8}}&01-080-0491& 75 & 173.16\\
+    \hline
+    \ce{YBa2Cu3O_{6.84}}&01-080-05071& 32 & 174.10\\
+    \hline
+    \ce{YBa2Cu3O_{6.948}}&01-080-1969& 60 & 172.38\\
+    \hline
+  
+  \end{tabular}
+  \label{Referenzcodesssss}
+\end{table}
+
+\noindent
+Da bei den Oxidationsgrad \ce{YBa2Cu3O_{6.54}} die höchste Übereinstimmung vorliegt, wird der Zellparameter mit diesem verglichen. Dies wird in Tabelle \ref{KastenlängeferroYBaCuO} dargestellt.
+\newpage
+\begin{table}[h!]
+\caption{\textit{Zeigt die Theoretische und Festgestellte Einheitszelle von den hergestellten \ce{YBa2Cu3O7-\delta} (Referenzcode 01-078-1974). Die Verfeinerung wurde mithilfe des Programmes HighScore Plus durchgeführt. }}
+\begin{center}
+\begin{tabular}{|>{\columncolor{lightgray}}p{4cm}|>{\centering\arraybackslash}p{4cm}|>{\centering\arraybackslash}p{4cm}|}
+   \hline
+   \rowcolor{gray}
+   &Theoretische Elementarzelle& Festgestellte Elementarzelle (Standardabweichung) \\
+   \hline
+   a[\AA]& 3.8172& 3.818(1)\\
+   \hline
+   b[\AA]&3.8822& 3.882(1)\\
+   \hline
+   c[\AA]&11.6707& 11.673(4)\\
+   \hline
+   $\alpha$[°]&90& 90\\
+   \hline
+   $\beta$[°]&90& 90\\
+   \hline
+   $\gamma$[°]&90& 90\\
+   \hline
+   Volumen[\AA$^3$]&172.95 & 173.04\\
+   \hline
+    Chi Square&\multicolumn{2}{c|}{5.33177 $\cdot 10^{-6}$}\\
+   \hline
+   Synder`s FOM&\multicolumn{2}{c|}{16.9768}\\
+   \hline
+\end{tabular}
+\label{KastenlängeferroYBaCuO}
+\end{center}
+\end{table}
+
+\noindent
+Die festgestellten Werte zeigen eine gute Übereinstimmung mit denen aus der Referenz. Anschließend wird die genaue Sauerstoffsättigung im Supraleiter bestimmt.
+Die Auftragung ist in der Abbildung \ref{plot} abgebildet.
+
+\subsection{Sauerstoffgehalt}
+
+Die in der Tabelle \ref{Referenzcodessssse} Referenzen werden nun nach deren Elementarzellengröße gegen Sauerstoffgehalt aufgetragen.
+
+\begin{table}[!h]
+  \caption{Zeigt die Referenz-Oxidationsgraden mit Referenzcodes und deren Elementarzellenvolumen.}
+  \centering
+  \begin{tabular}{|>{\centering\arraybackslash}p{0.3\linewidth}|>{\centering\arraybackslash}p{0.3\linewidth}|>{\centering\arraybackslash}p{0.3\linewidth}|}
+    \hline
+    \rowcolor{lightgray}
+    Oxidationsgrad & Referenzcode &  Elementarzellen-Volumen \\
+    \hline
+    \ce{YBa2Cu3O_{6.00}}&01-080-0264&  176.90 \\
+     \hline
+    \ce{YBa2Cu3O_{6.26}}&01-078-2137&  175.44 \\
+    \hline
+    \ce{YBa2Cu3O_{6.50}}&01-082-1603&  173.855\\
+    \hline
+    \ce{YBa2Cu3O_{6.54}}&01-078-1974&  172.95\\
+    \hline
+    \ce{YBa2Cu3O_{6.8}}&01-080-0491& 173.16\\
+    \hline
+    \ce{YBa2Cu3O_{6.84}}&01-080-0507&  174.10\\
+    \hline
+    \ce{YBa2Cu3O_{6.91}}&01-080-0279&  171.93\\
+    \hline
+    \ce{YBa2Cu3O_{6.948}}&01-080-1969&  172.38\\
+    \hline
+  
+  \end{tabular}
+  \label{Referenzcodessssse}
+\end{table}
+\newpage
+\begin{figure}
+  \centering
+  \includegraphics[scale=0.8]{Plot.png}
+  \caption{Zeigt das Elementarzellenvolumen gegen den Sauerstoffgehalt mit einen Linearen Fit und den hergestellten \ce{YBa2Cu3O_{7-\delta}}}
+  \label{plot}
+\end{figure}
+
+Die neuen
+
+
+
 
 
 
@@ -140,7 +256,7 @@ ein Magneten gegeben.
 
 \newpage
 \section{Zusammenfassung}
-\cite{Skript}
+
 
 
 

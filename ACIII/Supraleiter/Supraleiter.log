@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  29 MAY 2025 19:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  30 MAY 2025 13:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -968,7 +968,7 @@ Package biblatex Info: ... file 'Supraleiter.bbl' found.
  (Supraleiter.bbl)
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
-<Universität_Bayreuth.svg.png, id=46, 1204.5pt x 372.39125pt>
+<Universität_Bayreuth.svg.png, id=50, 1204.5pt x 372.39125pt>
 File: Universität_Bayreuth.svg.png Graphic file (type png)
 <use Universität_Bayreuth.svg.png>
 Package pdftex.def Info: Universität_Bayreuth.svg.png  used on input line 46.
@@ -1031,34 +1031,57 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.132 \newpage
                [2]
+<Supraleiter.png, id=87, 886.06032pt x 464.4853pt>
+File: Supraleiter.png Graphic file (type png)
+<use Supraleiter.png>
+Package pdftex.def Info: Supraleiter.png  used on input line 138.
+(pdftex.def)             Requested size: 483.69684pt x 253.56827pt.
 
-[3]
+
+[3 <./Supraleiter.png>]
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <9> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <7> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 173.
+
 
 [4]
+<Plot.png, id=111, 462.528pt x 346.896pt>
+File: Plot.png Graphic file (type png)
+<use Plot.png>
+Package pdftex.def Info: Plot.png  used on input line 242.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
 
-[5] (Supraleiter.aux)
+
+[5 <./Plot.png>]
+
+[6]
+
+[7] (Supraleiter.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `Supraleiter.out' has not changed.
-(rerunfilecheck)             Checksum: 97A267272841043B04102C5952A76CF6;1259.
+(rerunfilecheck)             Checksum: 30DFEBBA518DC5903FDE5748B6171A65;1397.
 Package logreq Info: Writing requests to 'Supraleiter.run.xml'.
 \openout1 = `Supraleiter.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31297 strings out of 469941
- 605549 string characters out of 5468947
- 1452179 words of memory out of 5000000
- 57570 multiletter control sequences out of 15000+600000
- 665011 words of font info for 116 fonts, out of 8000000 for 9000
+ 31362 strings out of 469941
+ 606487 string characters out of 5468947
+ 1470985 words of memory out of 5000000
+ 57615 multiletter control sequences out of 15000+600000
+ 672326 words of font info for 134 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 95i,7n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Supraleiter.pdf (7 pages, 105077 bytes).
+ 95i,20n,113p,1200b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Supraleiter.pdf (9 pages, 197604 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
