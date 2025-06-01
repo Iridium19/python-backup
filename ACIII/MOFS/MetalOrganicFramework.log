@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  1 JUN 2025 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  1 JUN 2025 19:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1096,7 +1096,7 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `MetalOrganicFramework.out' has not changed.
-(rerunfilecheck)             Checksum: 53140C9A17EC0722367C5F9372EA4508;2023.
+(rerunfilecheck)             Checksum: 433B87AB483F46C16BF18BBAE1271E66;2018.
 Package logreq Info: Writing requests to 'MetalOrganicFramework.run.xml'.
 \openout1 = `MetalOrganicFramework.run.xml'.
 
@@ -1110,7 +1110,7 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  95i,12n,113p,1203b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MetalOrganicFramework.pdf (10 pages, 139995 bytes).
+Output written on MetalOrganicFramework.pdf (10 pages, 140211 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
