@@ -18,7 +18,9 @@ mathfontname=mathsf]{mhchem}
 \usepackage{array}
 \usepackage{float}
 \usepackage{mathcomp}
+\usepackage{cleveref}
 \usepackage{csquotes}
+\usepackage{subcaption}
 \usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
 \addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
 
@@ -155,7 +157,7 @@ erhitzt. Dabei wird das Verhalten beobachtet.
 \newpage
 \section{Auswertung}
 \subsection{Porenanalyse MOFs}
-\subsubsection{Porenanalyse AL-MIL-53-H}
+\subsubsection{Porenanalyse Al-MIL-53-H}
 Um zu bestimmen, ob das MOF Al-MIL-53-H im Large-Pore- oder im Narrow-Pore-Typ vorliegt, wird das aufgenommene Pulverdiffraktogramm mit Referenzmustern verglichen. 
 Dieser Vergleich ist in Abbildung \ref{MOF125ver} dargestellt.
 \begin{figure}[!ht]
@@ -170,9 +172,9 @@ Aus Abbildung \ref{MOF125ver} lässt sich der Porentyp des hergestellten MOFs au
 Allerdings scheint eine bessere Übereinstimmung der Reflexe mit denen des Narrow-Pore-Typs vorzuliegen. 
 Daher wird das hergestellte MOF Al-MIL-53-H dem Narrow-Pore-Typ zugeordnet.
 
-\subsubsection{Porenanalyse Fe-MIL-53-H}
+\subsubsection{Porenanalyse Fe-MIL-53-H} \label{poreeisen}
 In Abbildung \ref{MOF120ver} ist das Pulverdiffraktogramm von Fe-MIL-53-H zusammen mit den Referenzmustern dargestellt. Auch in diesem Fall ist eine eindeutige Zuordnung der Reflexe schwierig. 
-Mithilfe der im Programm HighScore Plus generierten Peakliste (Reflexe bei 9.02°, 16.47° und 18.13°) lassen sich die Peaks jedoch dem Large-Pore-Typ zuordnen.
+Mithilfe der im Programm HighScore Plus generierten Peakliste (Reflexe bei 9.02°, 16.47° und 18.13°) lassen sich die Peaks jedoch dem eher dem Large-Pore-Typ zuordnen.
 \newpage
 \begin{figure}[!ht]
     \centering
@@ -194,7 +196,7 @@ Aus Abbildung \ref{MOF225ver} geht hervor, dass Al-MIL-53-NH$_2$ in der Large-Po
 
 \newpage
 
-\subsubsection{\texorpdfstring{Porenanalyse Fe-MIL-53-NH$_2$}{Porenanalyse Fe-MIL-53-NH2}}
+\subsubsection{\texorpdfstring{Porenanalyse Fe-MIL-53-NH$_2$}{Porenanalyse Fe-MIL-53-NH2}} \label{poreeisenamino}
 In Abbildung \ref{MOF220ver} ist das Pulverdiffraktogramm von Fe-MIL-53-NH$_2$ gemeinsam mit den Referenzmustern dargestellt. 
 
 \begin{figure}[!h]
@@ -209,14 +211,166 @@ Peakliste liefert jedoch Hinweise auf die Large-Pore-Anordnung, da kleinere Refl
 \newpage
 \subsection{Iodkammer-Experiment}
 Um zu überprüfen, ob das MOF Iod absorbieren kann, wird es mit gasförmigem Iod in Kontakt gebracht. Dies wird mithilfe von Rollgläsern erreicht.
+Anschließend wird verglichen, wie sich das MOF verändert hat.
+\subsubsection{Beobachtung Iodkammer Al-MIL-53-H}
 
 
 
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=0.7\textwidth]{MOF25Ivor.jpg}
+        \caption{Al-MIL-53-H vor Kontakt mit gasförmigem Iod.}
+        \label{VergleichMOF25Ivor}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=0.7\textwidth]{MOF25Inach.jpg}
+        \caption{Al-MIL-53-H nach Kontakt mit gasförmigem Iod.}
+        \label{VergleichMOF25Inach}
+    \end{subfigure}
+    \caption{Vergleich von Al-MIL-53-H vor und nach der Behandlung mit gasförmigem Iod.}
+    \label{VergleichMOF25I}
+\end{figure}
+\noindent
+Aus Abbildung \ref{VergleichMOF25I} ist ersichtlich, dass der Al-MIL-53-H-MOF Iod aufnehmen kann. Dies zeigt sich an der Farbveränderung von Weiß zu Orangebraun.
+\newpage
+
+\subsubsection{Beobachtung Iodkammer Fe-MIL-53-H von Platz 21 durchgeführt}
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=0.25\linewidth]{MOF20I.jpg}
+    \caption{Zeigt Fe-MIL-53-H, dass sich in der Iodkammer befindet.}
+    \label{MOF20I}
+\end{figure}
+
+\noindent
+Die Abbildung \ref{MOF20I} zeigt das MOF Fe-MIl-53-H in der Iodkammer. Leider wurde vergessen, ein Referenzbild aufzunehmen. Allerdings hat sich die Farbe nicht verändert. Somit kann Fe-MIL-53-H kein Iod aufnehmen.
 
 
 \newpage
-\section{Zusammenfassung}
+\subsubsection{\texorpdfstring{Beobachtung Iodkammer Al-MIL-53-NH$_2$}{Beobachtung Iodkammer Al-MIL-53-NH2}}
 
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=0.7\textwidth]{MOF25IIvor.jpg}
+        \caption{Al-MIL-53-NH$_2$ vor Kontakt mit gasförmigem Iod.}
+        \label{VergleichMOF25IIvor}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\textwidth}
+        \centering
+        \includegraphics[width=0.7\textwidth]{MOF25IInach.jpg}
+        \caption{Al-MIL-53-NH$_2$ nach Kontakt mit gasförmigem Iod.}
+        \label{VergleichMOF25IInach}
+    \end{subfigure}
+    \caption{Vergleich von Al-MIL-53-NH$_2$ vor und nach der Behandlung mit gasförmigem Iod.}
+    \label{VergleichMOF25II}
+\end{figure}
+
+\noindent
+Aus Abbildung \ref{VergleichMOF25II} ist erkennbar, dass der Al-MIL-53-NH$_2$-MOF Iod aufnehmen kann. Dies zeigt sich an der Farbveränderung von Gelb zu Schwarz.
+
+
+\newpage
+
+\subsubsection{\texorpdfstring{Beobachtung Iodkammer Fe-MIL-53-NH$_2$ von Platz 20 durchgeführt}{Beobachtung Iodkammer Fe-MIL-53-NH2von Platz 20 durchgeführt}}
+
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=0.25\linewidth]{MOF20II.jpg}
+    \caption{Zeigt Fe-MIL-53-NH$_2$, dass sich in der Iodkammer befindet.}
+    \label{MOF20II}
+\end{figure}
+
+\noindent
+Die Abbildung \ref{MOF20II} zeigt das MOF Fe-MIL-53-NH$_2$ in der Iodkammer. Auch hier wurde leider kein Referenzbild aufgenommen. Dennoch war keine Farbveränderung zu beobachten, weshalb von keiner Iodeinlagerung ausgegangen werden kann.
+
+\subsubsection{Erklärung des unteschiedlichen Verhalten bei der Einlagerung}
+Aus den Iodkammer-Experimenten lässt sich schließen, dass die MOFs mit Aluminium als Metall Iod einlagern können, während der MOF aus Eisen dazu nicht fähig ist.
+
+\noindent
+Da die Linker der MOFs gleich sind und sich nur das Metallion unterscheidet, kann die Iodeinlagerung weder durch Physisorption (Van-der-Waals-Kräfte) noch durch Chemisorption, die von funktionellen Gruppen wie der Amin-Gruppe abhängt, erklärt werden.
+
+\noindent
+Daher ist als einziger Mechanismus nur die Diffusion des Gases in die Poren möglich. Dies lässt den Schluss zu, dass die Poren des Aluminium-MOFs größer sind als die des Eisen-MOFs. Beim Aluminium-MOF konnten die Iodmoleküle in das Netzwerk eindiffundieren und dadurch die Farbveränderung verursachen. Beim Eisen-MOF war dies nicht der Fall.
+\newpage
+
+\subsection{Physisorption des Eisen MOFs}
+Da ursprünglich von allen vier MOFs die Physisorption gemessen werden sollte, jedoch nur eine geringe Probenmenge zur Verfügung stand, wurden von den Betreuern lediglich die Eisen-basierten MOFs erneut hergestellt und vermessen. Aus diesem Grund werden im vorliegenden Protokoll ausschließlich die Physisorptionsdaten der Eisen-MOFs betrachtet.
+
+\noindent
+Die entsprechenden Messdaten sind in Abbildung \ref{Physisorption} dargestellt.
+\begin{figure}[!h]
+    \centering
+  \begin{subfigure}[b]{0.47\linewidth}
+    \centering
+    \includegraphics[width=\textwidth]{Phsyioganz.png}
+    \caption{Physisorptionsisotherme im Bereich von 0.0 bis 1.0 bar.}
+    \label{ganz}
+    
+  \end{subfigure}
+   \begin{subfigure}[b]{0.47\linewidth}
+    \centering
+    \includegraphics[width=\textwidth]{phsiozoom.png}
+    \caption{Detailansicht im Druckbereich von 0.03 bis 0.10 bar.}
+    \label{zoom}
+    
+  \end{subfigure}
+  \caption{\ce{CO2}-Physisorption der Eisen-basierten MOFs bei 40 °C. Links ist die vollständige Isotherme dargestellt, rechts ein vergrößerter Ausschnitt im Niederdruckbereich.}
+  \label{Physisorption}
+\end{figure}
+
+\noindent
+Die Physisorptionsisothermen in Abbildung \ref{ganz} lassen sich nicht eindeutig nach der IUPAC-Klassi-fikation einordnen. Dennoch ist erkennbar, dass Fe-MIL-53-NH$_2$ das \ce{CO2} stärker physisorbiert als Fe-MIL-53-H. Dies liegt unter anderem am Quadrupolmoment, das sich zwischen der Aminogruppe (–NH$_2$) und dem \ce{CO2}-Molekül ausbilden kann.
+Ein solcher spezifischer Wechselwirkungseffekt ist bei Fe-MIL-53-H, dem unfunktionalisierten MOF, nicht gegeben. Daher zeigt Fe-MIL-53-NH$_2$ eine höhere Affinität zur \ce{CO2}-Adsorption.
+
+\noindent
+In Abbildung \ref{zoom} ist zu erkennen, dass Fe-MIL-53-NH$_2$ bereits bei sehr niedrigen Drücken eine deutliche Physisorption von \ce{CO2} zeigt. Im Gegensatz dazu beginnt Fe-MIL-53-H erst bei einem höheren Druck (0.05668 bar) signifikant \ce{CO2} zu adsorbieren.
+Dieser Unterschied lässt sich durch die strukturelle Flexibilität der MOFs erklären: Die Aminogruppe in Fe-MIL-53-NH$_2$ stabilisiert die großporige (Large-Pore) Konformation bereits im Ausgangszustand. Dadurch sind die Poren für \ce{CO2}-Moleküle frühzeitig zugänglich.
+Fe-MIL-53-H hingegen liegt unter Startbedingungen in der engporigen (Narrow-Pore) Konformation vor, welche zunächst keinen Zugang für \ce{CO2} bietet. Erst ab einem Druck von etwa 0.05668 bar erfolgt ein struktureller Übergang zur großporigen Form, wodurch dann eine verstärkte Physisorption einsetzt.
+
+\noindent
+Im Abschnitt \ref{poreeisen} wurde Fe-MIL-53-H der Large-Pore Konformation zugeordnet. Ob diese Zuordnung korrekt ist, lässt sich jedoch nicht eindeutig beurteilen. Zwar wurde die Messung unter Normaldruck durchgeführt, allerdings betrug der Partialdruck von \ce{CO2} lediglich 0.0004 bar. Daher ist es unwahrscheinlich, dass \ce{CO2} allein für die Öffnung in die Large-Pore-Konformation verantwortlich war, möglicherweise war ein anderes Gas beteiligt.
+
+\noindent
+Im Gegensatz dazu wurde Fe-MIL-53-NH$_2$ im Abschnitt \ref{poreeisenamino} korrekt als Large-Pore identifiziert. Diese Zuordnung lässt sich durch die erhöhte Affinität zu \ce{CO2} und die bereits bei sehr niedrigen Drücken beobachtete Adsorption eindeutig bestätigen.
+
+\newpage
+\section{Zusammenfassung}
+Im Rahmen des Versuchs wurden vier MOFs synthetisiert und anschließend hinsichtlich ihres Porentyps, ihrer Iodadsorption sowie ihrer \ce{CO2}-Physisorption untersucht. Die Ergebnisse zur Porenstruktur und zur Iodadsorption sind in Tabelle \ref{Zusammenfassung} zusammengefasst.
+\begin{table}[!h]
+    \caption{Zeigt das Verhalten der MOFs hinzüglich der Iodkammer und des Porentyps}
+    \label{Zusammenfassung}
+    \begin{tabular}{|>{\columncolor{lightgray}\centering\arraybackslash}p{0.3\linewidth}|>{\centering\arraybackslash}p{0.3\linewidth}|>{\centering\arraybackslash}p{0.3\linewidth}|}
+        \hline
+        \rowcolor{gray}
+        MOF&Porentyp&Adsorbiert Iod\\
+        \hline
+         Al-MIL-53-H & Narrow-Pore & Ja \\
+        \hline
+        Fe-MIL-53-H & Large-Pore / Narrow-Pore & Nein \\
+        \hline
+        Al-MIL-53-NH$_2$ & Large-Pore & Ja \\
+        \hline
+        Fe-MIL-53-NH$_2$ & Large-Pore & Nein \\
+        \hline
+    \end{tabular}
+
+
+
+\end{table}
+
+\noindent
+Aus Tabelle \ref{Zusammenfassung} lässt sich ablesen, dass die Fe-basierten MOFs kein Iod einlagern können, während die Al-basierten MOFs dazu in der Lage sind. Zudem zeigt sich, dass die Einführung einer Aminogruppe den Porentyp beeinflusst: Sie bewirkt eine Umwandlung von einem Narrow-Pore- zu einem Large-Pore-System.
+
+\noindent
+\noindent
+Bei der \ce{CO2}-Physisorption fiel auf, dass der Amino-MOF eine deutlich höhere Adsorption zeigt als der entsprechende MOF ohne Aminogruppe. Dieses Verhalten lässt sich auf die durchgehende Large-Pore-Struktur sowie auf die spezifische Wechselwirkungen zwischen der Aminogruppe und den \ce{CO2}-Molekülen zurückführen.
 
 
 \newpage

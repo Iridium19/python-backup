@@ -16,8 +16,10 @@ mathfontname=mathsf]{mhchem}
 \usepackage{multirow}
 \usepackage[table]{xcolor}
 \usepackage{array}
+\usepackage{subcaption}
 \usepackage{float}
 \usepackage{mathcomp}
+\usepackage{cleveref}
 \usepackage{csquotes}
 \usepackage[backend=biber,style=chem-acs,sorting=none]{biblatex}
 \addbibresource{literatur.bib}  % Deine .bib-Datei einbinden
