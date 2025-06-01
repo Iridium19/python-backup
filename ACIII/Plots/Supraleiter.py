@@ -13,8 +13,9 @@ def lin (x,a,b):
 parameter, fehler=curve_fit(lin,Sauerstoff,Volumen)
 a,b=parameter
 print(parameter,'parameter')
-fehler1 = np.sqrt(np.diag(fehler))
-print(fehler1,'fehler')
+fehlera,fehlerb = np.sqrt(np.diag(fehler))
+print(fehlera,'fehlera')
+print(fehlerb,'fehlerb')
 
 
 x=np.linspace(5.5,7.3,100)
@@ -24,6 +25,11 @@ plt.plot(x,g,label='Linear Fit')
 plt.hlines(173.04,0,6.7832799902,color='black',label='Herrgestellter Supraleiter')
 plt.vlines(6.7832799902,0,173.04,color='black')
 
+
+
+sigx=np.sqrt((-1/a *fehlerb)**2+(-(173.04-b)/(a**2) * fehlera)**2)
+
+print(sigx)
 
 
 plt.xlim(5.9,7.1)

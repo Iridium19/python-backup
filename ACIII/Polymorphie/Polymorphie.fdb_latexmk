@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Polymorphie"] 1747846059.82049 "Polymorphie.bcf" "Polymorphie.bbl" "Polymorphie" 1748089043.74742 0
-  "Polymorphie.bcf" 1748089043 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
+["biber Polymorphie"] 1748783947.69857 "Polymorphie.bcf" "Polymorphie.bbl" "Polymorphie" 1748797242.71651 0
+  "Polymorphie.bcf" 1748797242 108186 57924d170602cf1ab9f736c4a609c922 "pdflatex"
   "literatur.bib" 1747843328 1231 4e82d24514f3def257d700ed475e28f9 ""
   (generated)
   "Polymorphie.bbl"
   "Polymorphie.blg"
   (rewritten before read)
-["pdflatex"] 1748089041.27121 "c:/Users/Justus/Desktop/Python/ACIII/Polymorphie/Polymorphie.tex" "Polymorphie.pdf" "Polymorphie" 1748089043.74837 0
-  "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747484129 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1748797240.15525 "c:/Users/Justus/Desktop/Python/ACIII/Polymorphie/Polymorphie.tex" "Polymorphie.pdf" "Polymorphie" 1748797242.71743 0
+  "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748257889 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1745925866 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -26,11 +26,8 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/zptmcm7v.tfm" 1136768654 1032 20febbd0f0c9a48eb78616f897008286 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/zptmcm7y.tfm" 1136768654 1520 ad7b3c1a480a03b3e41b5fbb13d938f2 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0700.tfm" 993062506 1452 97bdc98984cb373fbcd868e2fa55f5f2 ""
-  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0800.tfm" 993062506 1444 e35ead393df86aae37b5564284d9aa05 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0900.tfm" 993062508 1444 b1efc6b76338296f8076c1701e4660f3 ""
-  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993062508 1460 8005ce585ff351dff78998923504da5e ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
-  "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1440.tfm" 993062510 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -220,14 +217,14 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Polymorphie.aux" 1748089043 2257 a066bea23d44b9e71280d1731ffbd599 "pdflatex"
-  "Polymorphie.bbl" 1747846062 2928 8993ebb6a67a34554a52a493f2a57819 "biber Polymorphie"
-  "Polymorphie.out" 1748089043 1239 2c35369b5860397fdc53e068dad0847d "pdflatex"
-  "Polymorphie.run.xml" 1748089043 2488 f134664b300db97d157d4fe3760f250b "pdflatex"
-  "Polymorphie.tex" 1748089040 5259 d2e3e72d01c16422e5c1c19bb3d3ebdf ""
-  "Polymorphie.toc" 1748089043 820 3efa358b60aabd8e8b8064ce2f7cba85 "pdflatex"
+  "Polymorphie.aux" 1748797242 3060 6dbb7cac873865081eab07ac105694c8 "pdflatex"
+  "Polymorphie.bbl" 1748783950 2928 8993ebb6a67a34554a52a493f2a57819 "biber Polymorphie"
+  "Polymorphie.out" 1748797242 2167 30f5f3948483f56a461ca2c217b2e8b5 "pdflatex"
+  "Polymorphie.run.xml" 1748797242 2488 f134664b300db97d157d4fe3760f250b "pdflatex"
+  "Polymorphie.tex" 1748797239 6409 628450cf990d30d0602672be0ff4df1a ""
+  "Polymorphie.toc" 1748797242 1377 bbc45209cdcb1d1f6d1f4c3f7c473a5b "pdflatex"
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Polymorphie/Polymorphie.tex" 1748089040 5259 d2e3e72d01c16422e5c1c19bb3d3ebdf ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Polymorphie/Polymorphie.tex" 1748797239 6409 628450cf990d30d0602672be0ff4df1a ""
   (generated)
   "Polymorphie.aux"
   "Polymorphie.bcf"

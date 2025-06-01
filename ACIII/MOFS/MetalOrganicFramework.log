@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 14:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  1 JUN 2025 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -974,7 +974,7 @@ Package biblatex Info: ... file 'MetalOrganicFramework.bbl' found.
  (MetalOrganicFramework.bbl)
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
-<Universität_Bayreuth.svg.png, id=58, 1204.5pt x 372.39125pt>
+<Universität_Bayreuth.svg.png, id=62, 1204.5pt x 372.39125pt>
 File: Universität_Bayreuth.svg.png Graphic file (type png)
 <use Universität_Bayreuth.svg.png>
 Package pdftex.def Info: Universität_Bayreuth.svg.png  used on input line 48.
@@ -1036,10 +1036,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has 
                                                   \__shipout_drop_firstpage_...
 l.155 \newpage
               ]
-<MOF125ver.png, id=96, 901.11656pt x 496.85625pt>
+<MOF125ver.png, id=101, 901.11656pt x 496.85625pt>
 File: MOF125ver.png Graphic file (type png)
 <use MOF125ver.png>
-Package pdftex.def Info: MOF125ver.png  used on input line 162.
+Package pdftex.def Info: MOF125ver.png  used on input line 163.
 (pdftex.def)             Requested size: 450.55717pt x 248.4275pt.
 
 
@@ -1047,17 +1047,17 @@ Package pdftex.def Info: MOF125ver.png  used on input line 162.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.175 \newpage
+l.176 \newpage
                <./MOF125ver.png>]
-<MOF120ver.png, id=106, 908.64468pt x 514.92375pt>
+<MOF120ver.png, id=111, 908.64468pt x 514.92375pt>
 File: MOF120ver.png Graphic file (type png)
 <use MOF120ver.png>
-Package pdftex.def Info: MOF120ver.png  used on input line 177.
+Package pdftex.def Info: MOF120ver.png  used on input line 179.
 (pdftex.def)             Requested size: 454.32123pt x 257.46124pt.
-<MOF225ver.png, id=108, 901.11656pt x 416.30531pt>
+<MOF225ver.png, id=113, 901.11656pt x 416.30531pt>
 File: MOF225ver.png Graphic file (type png)
 <use MOF225ver.png>
-Package pdftex.def Info: MOF225ver.png  used on input line 187.
+Package pdftex.def Info: MOF225ver.png  used on input line 189.
 (pdftex.def)             Requested size: 450.55717pt x 208.15215pt.
 
 
@@ -1065,17 +1065,17 @@ Package pdftex.def Info: MOF225ver.png  used on input line 187.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.193 \newpage
+l.195 \newpage
               
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.193 \newpage
+l.195 \newpage
                <./MOF120ver.png> <./MOF225ver.png>]
-<MOF220ver.png, id=118, 904.88063pt x 517.18219pt>
+<MOF220ver.png, id=123, 904.88063pt x 517.18219pt>
 File: MOF220ver.png Graphic file (type png)
 <use MOF220ver.png>
-Package pdftex.def Info: MOF220ver.png  used on input line 200.
+Package pdftex.def Info: MOF220ver.png  used on input line 202.
 (pdftex.def)             Requested size: 452.43921pt x 258.59045pt.
 
 
@@ -1088,29 +1088,31 @@ l.209 \newpage
 
 [6]
 
-[7] (MetalOrganicFramework.aux)
+[7]
+
+[8] (MetalOrganicFramework.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `MetalOrganicFramework.out' has not changed.
-(rerunfilecheck)             Checksum: A3B9DE735DE35C092BD5A798BAC8BBFA;1865.
+(rerunfilecheck)             Checksum: 53140C9A17EC0722367C5F9372EA4508;2023.
 Package logreq Info: Writing requests to 'MetalOrganicFramework.run.xml'.
 \openout1 = `MetalOrganicFramework.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31379 strings out of 469941
- 607459 string characters out of 5468947
- 1457097 words of memory out of 5000000
- 57652 multiletter control sequences out of 15000+600000
+ 31382 strings out of 469941
+ 607495 string characters out of 5468947
+ 1457099 words of memory out of 5000000
+ 57653 multiletter control sequences out of 15000+600000
  652413 words of font info for 85 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  95i,12n,113p,1203b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on MetalOrganicFramework.pdf (9 pages, 138033 bytes).
+Output written on MetalOrganicFramework.pdf (10 pages, 139995 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 

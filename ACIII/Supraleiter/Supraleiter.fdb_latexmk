@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Supraleiter"] 1748603334.80939 "Supraleiter.bcf" "Supraleiter.bbl" "Supraleiter" 1748603455.84243 0
-  "Supraleiter.bcf" 1748603455 108313 7eabe1adc1196c47b0b0e88bce0e49b6 "pdflatex"
-  "literatur.bib" 1747150910 2898 32d9e18a1a55ae3a326a50ebab57cf64 ""
+["biber Supraleiter"] 1748782814.39811 "Supraleiter.bcf" "Supraleiter.bbl" "Supraleiter" 1748783204.01017 0
+  "Supraleiter.bcf" 1748783203 108435 328616dec0e0b29c2fa8fc7acccf4901 "pdflatex"
+  "literatur.bib" 1748782813 2898 f8a25123e100d5ed37351ba59f0e729b ""
   (generated)
   "Supraleiter.bbl"
   "Supraleiter.blg"
   (rewritten before read)
-["pdflatex"] 1748603451.80279 "c:/Users/Justus/Desktop/Python/ACIII/Supraleiter/Supraleiter.tex" "Supraleiter.pdf" "Supraleiter" 1748603455.84331 0
+["pdflatex"] 1748783199.22471 "c:/Users/Justus/Desktop/Python/ACIII/Supraleiter/Supraleiter.tex" "Supraleiter.pdf" "Supraleiter" 1748783204.01108 0
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748257889 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1745925866 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
@@ -226,15 +226,16 @@
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "Plot.png" 1748603089 33830 f44779a7c44c7353608e004d3a705051 ""
-  "Supraleiter.aux" 1748603455 4320 83b16209c6fd2e518873b41125b4cafc "pdflatex"
-  "Supraleiter.bbl" 1748603337 4364 58abbbb0d07b733c33ecf03db20fa68d "biber Supraleiter"
-  "Supraleiter.out" 1748603455 1397 30dfebba518dc5903fde5748b6171a65 "pdflatex"
+  "Supraleiter.aux" 1748783203 5630 fc3d3e2bcda6ba931a72825ec2849701 "pdflatex"
+  "Supraleiter.bbl" 1748782816 6663 c4227d3203ab7c148420a3988fa763ea "biber Supraleiter"
+  "Supraleiter.out" 1748783203 1825 2473737bc23788e78d8f05aa334f3ff6 "pdflatex"
   "Supraleiter.png" 1748597367 19216 7201b21809eb394f907e43f3ca073e33 ""
-  "Supraleiter.run.xml" 1748603455 2488 854ce4cb7f8287a6ecfa2a15f78782a1 "pdflatex"
-  "Supraleiter.tex" 1748603449 9014 63c2c559c6d751dacfb9720fccf2e3ed ""
-  "Supraleiter.toc" 1748603455 879 3b915ee826463ec6b844e104375b9fc9 "pdflatex"
+  "Supraleiter.run.xml" 1748783203 2488 854ce4cb7f8287a6ecfa2a15f78782a1 "pdflatex"
+  "Supraleiter.tex" 1748783198 12717 e370c8b607d4d252dcc02edbc5b830aa ""
+  "Supraleiter.toc" 1748783203 1072 760f6ad4a50b1552a4dc60987cb6c41e "pdflatex"
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/Supraleiter/Supraleiter.tex" 1748603449 9014 63c2c559c6d751dacfb9720fccf2e3ed ""
+  "c:/Users/Justus/Desktop/Python/ACIII/Supraleiter/Supraleiter.tex" 1748783198 12717 e370c8b607d4d252dcc02edbc5b830aa ""
+  "sipraleiter.jpg" 1748779880 256040 d5f05e5ba15ae115fbd198009fde1860 ""
   (generated)
   "Supraleiter.aux"
   "Supraleiter.bcf"

@@ -244,7 +244,65 @@ Die in der Tabelle \ref{Referenzcodessssse} Referenzen werden nun nach deren Ele
   \label{plot}
 \end{figure}
 
-Die neuen
+\noindent
+Anschließend wurde eine lineare Regression durchgeführt. Die daraus resultierende Geradengleichung lautet:
+\begin{equation}
+  y= m \cdot x + b
+  \label{Geradengleichung}
+\end{equation}
+Dabei entspricht die Steigung m = $-4.3556$, x ist der Sauerstoffanteil, y das Elementarzellenvolumen und der y-Achsenabschnitt b beträgt $b = 202.5849$. Aus der Geradengleichung und den bestimmten Elementarzellvolumina lässt sich der Sauerstoffanteil bestimmen.
+Hierzu wird die Gleichung \ref{Geradengleichung} entsprechend umgeformt:
+\begin{equation}
+  \frac{y - b}{m} = x
+  \label{umgeformteGeradengleichung}
+\end{equation}
+Aus der Gleichung \ref{umgeformteGeradengleichung} folgt, dass der Sauerstoffanteil des Supraleiters 6.78 ist. Somit ist der hergestellte Supraleiter der Chemischen Formel:
+
+\begin{center}
+  \ce{YBa2Cu3O_{6.78}}
+\end{center}
+
+\newpage
+\subsection{Meißner-Ochsenfeld-Experiment}
+Der Supraleiter wurde mit flüssigem Stickstoff gekühlt und anschließend auf einen Magneten gelegt. Dabei wurde beobachtet, dass der Supraleiter über dem Magneten schwebt. Dieses Phänomen ist in Abbildung \ref{fliegend} dargestellt.
+\begin{figure}[!h]
+  \centering
+  \includegraphics[width=0.5\linewidth]{sipraleiter.jpg}
+  \caption{Zeigt den hergestellten Supraleiter, wie er über einen Magneten schwebt.}
+  \label{fliegend}
+\end{figure}
+Aus dem Experiment lässt sich schließen, dass die Sprungtemperatur über \mbox{77 K} liegt. Dies stimmt mit der Erwartung überein, da der hergestellte Supraleiter die Zusammensetzung \ce{YBa2Cu3O_{6.78}} besitzt. Supraleitende Eigenschaften sind bei dieser Verbindung bis zu einer Sauerstoffzusammensetzung von etwa \ce{YBa2Cu3O_{6.65}} bei Temperaturen über 77 K bekannt. \cite{Skript}
+\subsection{Mittlere Oxidationsstufe von Cu}
+Es soll die mittlere Oxidationsstufe von Kupfer in der Verbindung \ce{YBa2Cu3O_{7-\delta}} bestimmt werden. Die berechneten mittleren Oxidationsstufen sind in Tabelle \ref{Oxidationsstufe} zusammengefasst.
+
+\renewcommand{\arraystretch}{1.2}
+\begin{table}[!h]
+  \caption{Zeigt die mittlere Oxidationsstufe von Cu in der Verbindung\ce{YBa2Cu3O_{7-$\delta$}}.}
+  \label{Oxidationsstufe}
+  \centering
+\begin{tabular}{|>{\centering\arraybackslash}p{0.45\linewidth}|>{\centering\arraybackslash}p{0.45\linewidth}|}
+  \hline
+  \rowcolor{lightgray}
+  Verbindung&Mittlere Oxidationsstufe\\
+  \hline
+  \ce{YBa2Cu3O_{6.0}}& $1.6\overline{6}$\\
+   \hline
+  \ce{YBa2Cu3O_{6.5}}&2.00\\
+ \hline
+  \ce{YBa2Cu3O_{6.9}}&$2.2\overline{6}$\\
+ \hline
+  \ce{YBa2Cu3O_{7.0}}&$2.3\overline{3}$\\
+  \hline
+\end{tabular}
+\end{table}
+
+
+\noindent
+Die dafür notwendige Berechnung basiert auf der Annahme, dass Yttrium die Oxidationszahl +3, Barium +2 und Sauerstoff –2 besitzt.\cite{riedel} Die mittlere Oxidationsstufe von Kupfer ergibt sich aus der Ladungsbilanz der Verbindung \ce{YBa2Cu3O_{7-\delta}}. Die entsprechende Berechnung ist in Gleichung (\ref{eq:oxidation}) dargestellt.
+\begin{equation}
+\label{eq:oxidation}
+\frac{\ce{Y^{3+}} + 2 \cdot \ce{Ba^{2+}} + (7 - \delta) \cdot \ce{O^{2-}}}{3} = \ce{Cu^{x+}}
+\end{equation}
 
 
 
@@ -256,6 +314,15 @@ Die neuen
 
 \newpage
 \section{Zusammenfassung}
+
+Im Experiment wurde erfolgreich der Supraleiter \ce{YBa2Cu3O_{7-$\delta$}} synthetisiert. Über den Meißner-Ochsenfeld-Effekt konnte nachgewiesen werden, dass die Sprungtemperatur über 77 K liegt. Der Versuch war somit erfolgreich. Anschließend wurde eine Phasenanalyse durchgeführt, bei der keine Fremdphasen nachgewiesen wurden.
+
+\noindent
+Zur weiteren Charakterisierung des Materials wurde der Sauerstoffgehalt bestimmt. Das Ergebnis ergab einen Sauerstoffgehalt von 6.78, woraus sich die chemische Zusammensetzung \ce{YBa2Cu3O_{6.78}} ergibt.
+
+
+
+
 
 
 

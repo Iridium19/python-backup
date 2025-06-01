@@ -83,8 +83,42 @@
       \field{abstract}{Das Lehrbuch für Studenten des Faches Chemie im Grundstudium behandelt - je zur Hälfte - theoretische Grundlagen und anorganische Stoffchemie. Es ist au{ß}erdem für alle Fachrichtungen wie z.B. Biochemie und Chemieingenieurwissenschaften geeignet, für die solide Grundkenntnisse in anorganischer Chemie notwendig sind. Die graphische Gestaltung dient der Nutzung als Lehrbuch und als Repetitorium zur Prüfungsvorbereitung. In der Neuauflage sind alle umwelttechnischen Daten aktualisiert und neu entdeckte Reaktionsmuster aufgenommen worden. Neue Erklärungsmodelle zum Bindungsmechanismus sind mittlerweile wissenschaftlich abgesichert, so dass sie in das Lehrbuch integriert wurden, um den aktuellen Wissensstand auf diesem Gebiet abzubilden This introductory text book is primarily written for students of chemistry. It treats both theoretical basics and specifically anorganic chemistry. Further, it is suitable for all disciplines, such as Biochemistry and Chemical Engineering, which require a solid basis in anorganic chemistry}
       \field{title}{Praktikum Präparative Anorganische Chemie}
       \field{year}{2025}
-      \field{pages}{39\bibrangedash 45}
-      \range{pages}{7}
+      \field{pages}{39\bibrangedash 46}
+      \range{pages}{8}
+    \endentry
+    \entry{riedel}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c8179116c7b1c80a8e9e5c4087a190b9}{%
+           family={Riedel},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Berlin}%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{fullhash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{fullhashraw}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{bibnamehash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{authorbibnamehash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{authornamehash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{authorfullhash}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \strng{authorfullhashraw}{c8179116c7b1c80a8e9e5c4087a190b9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Das Lehrbuch für Studenten des Faches Chemie im Grundstudium behandelt - je zur Hälfte - theoretische Grundlagen und anorganische Stoffchemie. Es ist au{ß}erdem für alle Fachrichtungen wie z.B. Biochemie und Chemieingenieurwissenschaften geeignet, für die solide Grundkenntnisse in anorganischer Chemie notwendig sind. Die graphische Gestaltung dient der Nutzung als Lehrbuch und als Repetitorium zur Prüfungsvorbereitung. In der Neuauflage sind alle umwelttechnischen Daten aktualisiert und neu entdeckte Reaktionsmuster aufgenommen worden. Neue Erklärungsmodelle zum Bindungsmechanismus sind mittlerweile wissenschaftlich abgesichert, so dass sie in das Lehrbuch integriert wurden, um den aktuellen Wissensstand auf diesem Gebiet abzubilden This introductory text book is primarily written for students of chemistry. It treats both theoretical basics and specifically anorganic chemistry. Further, it is suitable for all disciplines, such as Biochemistry and Chemical Engineering, which require a solid basis in anorganic chemistry}
+      \field{edition}{6. Aufl. Reprint 2020}
+      \field{title}{Anorganische Chemie}
+      \field{year}{2004}
+      \field{pages}{726}
+      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection

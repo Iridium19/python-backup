@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber MetalOrganicFramework"] 1747829816.02063 "MetalOrganicFramework.bcf" "MetalOrganicFramework.bbl" "MetalOrganicFramework" 1748089055.08384 0
-  "MetalOrganicFramework.bcf" 1748089054 108381 ab25ae9a6cf84c013433a488726bc259 "pdflatex"
+["biber MetalOrganicFramework"] 1747829816.02063 "MetalOrganicFramework.bcf" "MetalOrganicFramework.bbl" "MetalOrganicFramework" 1748783506.98677 0
+  "MetalOrganicFramework.bcf" 1748783506 108381 ab25ae9a6cf84c013433a488726bc259 "pdflatex"
   "literatur.bib" 1747234710 1799 7b9708a0fc013c8032159c3e798a169a ""
   (generated)
   "MetalOrganicFramework.bbl"
   "MetalOrganicFramework.blg"
   (rewritten before read)
-["pdflatex"] 1748089052.41998 "c:/Users/Justus/Desktop/Python/ACIII/MOFS/MetalOrganicFramework.tex" "MetalOrganicFramework.pdf" "MetalOrganicFramework" 1748089055.08523 0
-  "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747484129 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1748783504.59493 "c:/Users/Justus/Desktop/Python/ACIII/MOFS/MetalOrganicFramework.tex" "MetalOrganicFramework.pdf" "MetalOrganicFramework" 1748783506.98768 0
+  "C:/Users/Justus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748257889 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Justus/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746624428 13158124 dfb588c164beb2b73b6528b37849465f ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136768654 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -209,14 +209,14 @@
   "MOF125ver.png" 1747826625 15231 9c70f3f9cc2af7db59238e3c6437bb92 ""
   "MOF220ver.png" 1747831888 16413 8023f6b71275acb5b665705171c2d297 ""
   "MOF225ver.png" 1747830131 13634 f32e1e6ec9f771bf0fcb9db7845aa62b ""
-  "MetalOrganicFramework.aux" 1748089054 4726 5b1d8922b33eb5d50f7e8d09645dca4e "pdflatex"
+  "MetalOrganicFramework.aux" 1748783506 4854 4dbea2500513155e8e21c101785447ba "pdflatex"
   "MetalOrganicFramework.bbl" 1747829818 5084 6921e458f7019e1c557cba643ac6f61e "biber MetalOrganicFramework"
-  "MetalOrganicFramework.out" 1748089054 1865 a3b9de735de35c092bd5a798bac8bbfa "pdflatex"
-  "MetalOrganicFramework.run.xml" 1748089054 2558 2a80b1d70404db8f33414f98884d34a7 "pdflatex"
-  "MetalOrganicFramework.tex" 1748089051 7543 9155cd168a6332dc8f67a94bbfd86e21 ""
-  "MetalOrganicFramework.toc" 1748089054 1111 fc263dda438a36fe32febe0134265df0 "pdflatex"
+  "MetalOrganicFramework.out" 1748783506 2023 53140c9a17ec0722367c5f9372ea4508 "pdflatex"
+  "MetalOrganicFramework.run.xml" 1748783506 2558 2a80b1d70404db8f33414f98884d34a7 "pdflatex"
+  "MetalOrganicFramework.tex" 1748783503 7624 ac46dc4ee61985c419e8ff5cab8f9ad7 ""
+  "MetalOrganicFramework.toc" 1748783506 1197 d5e672fa2d29be4034ebafc8cba4b0fe "pdflatex"
   "Universität_Bayreuth.svg.png" 1745929608 20577 a05803c1ec22545e96d23006fa952204 ""
-  "c:/Users/Justus/Desktop/Python/ACIII/MOFS/MetalOrganicFramework.tex" 1748089051 7543 9155cd168a6332dc8f67a94bbfd86e21 ""
+  "c:/Users/Justus/Desktop/Python/ACIII/MOFS/MetalOrganicFramework.tex" 1748783503 7624 ac46dc4ee61985c419e8ff5cab8f9ad7 ""
   (generated)
   "MetalOrganicFramework.aux"
   "MetalOrganicFramework.bcf"
