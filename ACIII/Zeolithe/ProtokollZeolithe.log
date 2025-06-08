@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  24 MAY 2025 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  8 JUN 2025 12:26
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex
 (c:/Users/Justus/Desktop/Python/ACIII/Zeolithe/ProtokollZeolithe.tex
@@ -1029,37 +1028,51 @@ File: Screenshot 2025-05-17 133057.png Graphic file (type png)
 <use Screenshot 2025-05-17 133057.png>
 Package pdftex.def Info: Screenshot 2025-05-17 133057.png  used on input line 168.
 (pdftex.def)             Requested size: 422.70317pt x 251.43875pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 205.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 205.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 205.
 
 
 [3 <./Screenshot 2025-05-17 133057.png>]
+<SEM_Zeo___25_.pdf, id=105, 1027.84pt x 770.88pt>
+File: SEM_Zeo___25_.pdf Graphic file (type pdf)
+<use SEM_Zeo___25_.pdf>
+Package pdftex.def Info: SEM_Zeo___25_.pdf  used on input line 209.
+(pdftex.def)             Requested size: 483.69684pt x 362.7724pt.
 
-[4]
+
+[4 <./SEM_Zeo___25_.pdf>]
 
 [5]
 
-[6] (ProtokollZeolithe.aux)
+[6]
+
+[7] (ProtokollZeolithe.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `ProtokollZeolithe.out' has not changed.
-(rerunfilecheck)             Checksum: 8A8840EDFB69140B24487D6E77352621;1511.
+(rerunfilecheck)             Checksum: 4EDD6265C51EF1BD05148F73C1A23E48;1646.
 Package logreq Info: Writing requests to 'ProtokollZeolithe.run.xml'.
 \openout1 = `ProtokollZeolithe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31355 strings out of 469941
- 607424 string characters out of 5468947
- 1458534 words of memory out of 5000000
- 57626 multiletter control sequences out of 15000+600000
- 659291 words of font info for 102 fonts, out of 8000000 for 9000
+ 31397 strings out of 469941
+ 608127 string characters out of 5468947
+ 1459831 words of memory out of 5000000
+ 57661 multiletter control sequences out of 15000+600000
+ 668803 words of font info for 125 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  95i,14n,113p,1203b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ProtokollZeolithe.pdf (8 pages, 181206 bytes).
+<C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ProtokollZeolithe.pdf (9 pages, 737074 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 

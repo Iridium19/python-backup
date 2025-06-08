@@ -1,3 +1,22 @@
 {
     "git.ignoreLimitWarning": true,
+
+"latex-workshop.latex.recipes": [
+  {
+    "name": "pdflatex -> biber -> pdflatex*2",
+    "tools": ["pdflatex", "biber", "pdflatex", "pdflatex"]
+  }
+],
+"latex-workshop.latex.tools": [
+  {
+    "name": "pdflatex",
+    "command": "pdflatex",
+    "args": ["-interaction=nonstopmode", "-synctex=1", "%DOC%"]
+  },
+  {
+    "name": "biber",
+    "command": "biber",
+    "args": ["%DOCFILE%"]
+  }
+]
 }
