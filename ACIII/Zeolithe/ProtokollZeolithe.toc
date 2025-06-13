@@ -8,6 +8,7 @@
 \contentsline {subsection}{\numberline {2.3}Charakterisierung}{2}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Auswertung}{3}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Ergebnisse}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Austauschvermögen von \ce {Ca^{2+}} und \ce {Na^{+}}}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Durchschnittliche Anzahl von Elementarzellen pro Kristall}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Austauschvermögen von Zeolith A der Kationen \ce {Ca^{2+}} und \ce {Na^{+}}}{5}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Zusammenfassung}{6}{section.4}%
 \contentsline {section}{\numberline {5}Literaturverzeichnis}{7}{section.5}%
