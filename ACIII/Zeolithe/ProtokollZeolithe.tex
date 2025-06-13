@@ -3,6 +3,7 @@
 \usepackage[ngerman]{babel}
 \usepackage{mathptmx}
 \usepackage{blindtext}
+\usepackage{subcaption}
 \usepackage{emptypage}
 \usepackage{wrapfig}
 \usepackage[pdftex]{graphicx}
@@ -56,7 +57,7 @@ mathfontname=mathsf]{mhchem}
 \vspace{5cm}
 
 \begin{center}
-{\LARGE\bf{Anorganische Chemie III}} \\  
+{\LARGE\bf{Praktikum Anorganische Chemie III}} \\  
 \vspace{1cm}
 {\Large\bf{Zeolithe}}\\
 \vspace{0.5cm}
@@ -246,7 +247,7 @@ Hellblau&0.40& 0.06\\
 \end{table}
 
 \noindent 
-Aus Tabelle \ref{kristallgröße} wird die mittlere Kristallgröße bestimmt. Diese beträgt $\overline{V} = 4.19 \: \mu m^3$
+Aus Tabelle \ref{kristallgröße} wird die mittlere Kristallgröße bestimmt. Diese beträgt $\overline{V} = 4.19 \: \mu m^3$.
 Daraus lässt sich die durchschnittliche Anzahl der Elementarzellen pro Kristallit bestimmen. Diese wird mithilfe der Formel \ref{durchschnittelementarzelle} berechnet.
 
 \begin{equation}
@@ -254,6 +255,8 @@ Daraus lässt sich die durchschnittliche Anzahl der Elementarzellen pro Kristall
   \label{durchschnittelementarzelle}
 \end{equation}
 
+\noindent
+Daraus folgt, dass durchschnittlich $2.256 \cdot 10^7$ Elementarzellen pro Kristall vorliegen.
 
 
 
@@ -261,19 +264,58 @@ Daraus lässt sich die durchschnittliche Anzahl der Elementarzellen pro Kristall
 
 
 \subsection{\texorpdfstring{Austauschvermögen von Zeolith A der Kationen \ce{Ca^{2+}} und \ce{Na^{+}}}{Austauschvermögen von Zeolith A der Kationen Ca2+ und Na+}}
+Die molare Masse MM von Zeolith A beträgt 17527.49 $\frac{g}{mol}$. Daraus lässt sich die Stoffmenge nn in einem Gramm Zeolith berechnen.
+\begin{equation}
+  n_{Zeolith}=\frac{m}{M}=\frac{1 g}{17527.49 \frac{g}{mol}}=5.71 \cdot 10^{-5} mol
+  \label{stoffmenge}
+\end{equation}
 
+\noindent
+Aus der in Gleichung \ref{stoffmenge} berechneten Stoffmenge lässt sich ermitteln, wie viele \ce{Ca^{2+}}-Kationen eingelagert werden können. Diese Anzahl entspricht der Hälfte der \ce{Na^+}-Kationen.
+\begin{equation}
+  n_{\ce{Ca^2+}}=\frac{1}{2} \cdot 96 \cdot n_{Zeolith}=2.741 \cdot 10^{-3} mol
+  \label{Kalicium}
+\end{equation}
 
+\noindent
+Die in Gleichung \ref{Kalicium} berechnete Stoffmenge wird nun in eine Masse umgerechnet, die 109,9 mg \ce{Ca^{2+}} entspricht. Theoretisch kann somit 1 g Zeolith 109,9 mg \ce{Ca^{2+}} aufnehmen.
+Zur praktischen Überprüfung wird in 100 mL Leitungswasser zunächst auf \ce{Ca^{2+}} getestet. Anschließend wird 1 g Zeolith hinzugegeben und der Schnelltest erneut durchgeführt.
+\newpage
 
+\begin{figure}[ht]
+    \centering
+  \begin{subfigure}[b]{0.47\linewidth}
+    \centering
+    \includegraphics[width=\textwidth]{Wasserhärtelegende.png}
+    \caption{Zeigt die Legende des Wasserhärteschnelltest}
+    \label{ganz}
+    
+  \end{subfigure}
+   \begin{subfigure}[b]{0.47\linewidth}
+    \centering
+    \includegraphics[width=\textwidth]{wasserhärtetests.png}
+    \caption{Zeigt den Schnelltest vor der Zeolith Zugabe (oben) und danach (unten)}
+    \label{zoom}
+    
+  \end{subfigure}
+  \caption{Zeigt das Ergebnis des Wasserhärteschnelltest vor und nach der Zugabe von Zeolith A in Leitungswasser.}
+  \label{Physisorption}
+\end{figure}
 
+\noindent
+Aus Abbildung \ref{Physisorption} lässt sich ablesen, dass die Konzentration von \ce{CaCO3} vor der Zugabe des Zeoliths bei über 125 $\frac{mg}{L}$ lag. Nach der Zugabe von Zeolith A sank die Konzentration auf unter 55 $\frac{mg}{L}$. Daraus ergibt sich, dass mindestens 70 $\frac{mg}{L}$ \ce{CaCO3} entfernt wurden, was bei einem Probenvolumen von 100 mL einer absoluten Menge von 7 mg entspricht.
 
+\noindent
+Bei einer molaren Masse von \ce{CaCO3} von 100.01 g/mol entspricht dies einer Stoffmenge von \(6.999 \cdot 10^{-5}\) mol, also etwa 2.81 mg \ce{Ca^2+}. Dieser Wert liegt deutlich unter dem zuvor theoretisch berechneten Wert von 109.9 mg. Allerdings wurde bei dieser Berechnung mit der minimal möglichen Austauschmenge gerechnet, und es konnte nicht festgestellt werden, ob der Zeolith darüber hinaus noch mehr \ce{Ca^{2+}} hätte aufnehmen können.
 
+\noindent
+Da jedoch eindeutig \ce{Ca^{2+}}-Ionen ausgetauscht wurden, kann die Synthese des Zeolith As als erfolgreich angesehen werden.
 
 
 
 \newpage
 \section{Zusammenfassung}
-
-
+In diesem Versuch wurde erfolgreich Zeolith A hergestellt. Anschließend wurde mithilfe einer SEM-Aufnahme bestimmt, dass durchschnittlich \(2.256 \cdot 10^7\) Elementarzellen pro Kristall vorliegen. Zudem sollte das Austauschvermögen des Zeoliths A gegenüber \ce{Ca^{2+}}- und \ce{Na^{+}}-Ionen untersucht werden. Dies war jedoch nicht vollständig möglich, da der Zeolith vermutlich mehr \ce{Ca^{2+}} aufnehmen kann, als im Leitungswasser vorhanden war.
 
 
 \newpage
