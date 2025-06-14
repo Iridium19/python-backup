@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  13 JUN 2025 12:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.7)  13 JUN 2025 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1061,24 +1061,24 @@ Package pdftex.def Info: Magnehit.png  used on input line 188.
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.195 
+l.196 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.195 
+l.196 
        <./Magnehit.png>]
 
 [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.232 \newpage
+l.233 \newpage
               ]
 <Maghemit.png, id=156, 892.83563pt x 462.22687pt>
 File: Maghemit.png Graphic file (type png)
 <use Maghemit.png>
-Package pdftex.def Info: Maghemit.png  used on input line 240.
+Package pdftex.def Info: Maghemit.png  used on input line 241.
 (pdftex.def)             Requested size: 483.69684pt x 250.41693pt.
 
 
@@ -1086,17 +1086,17 @@ Package pdftex.def Info: Maghemit.png  used on input line 240.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.279 
+l.280 
       
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.279 
+l.280 
        <./Maghemit.png>]
 <diagramm.png, id=165, 304.13625pt x 253.69781pt>
 File: diagramm.png Graphic file (type png)
 <use diagramm.png>
-Package pdftex.def Info: diagramm.png  used on input line 282.
+Package pdftex.def Info: diagramm.png  used on input line 283.
 (pdftex.def)             Requested size: 304.1355pt x 253.69719pt.
 
 
@@ -1104,12 +1104,12 @@ Package pdftex.def Info: diagramm.png  used on input line 282.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.291 \newpage
+l.292 \newpage
                <./diagramm.png>]
 <Hämatit.png, id=173, 887.56593pt x 462.97969pt>
 File: Hämatit.png Graphic file (type png)
 <use Hämatit.png>
-Package pdftex.def Info: Hämatit.png  used on input line 297.
+Package pdftex.def Info: Hämatit.png  used on input line 298.
 (pdftex.def)             Requested size: 483.69684pt x 252.30832pt.
 
 
@@ -1117,17 +1117,17 @@ Package pdftex.def Info: Hämatit.png  used on input line 297.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.340 \subsection
+l.341 \subsection
                  {Test des Magentischen Verhaltens}
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.340 \subsection
+l.341 \subsection
                  {Test des Magentischen Verhaltens} <./Hämatit.png>]
 <testmagnet.jpg, id=182, 533.74406pt x 430.60875pt>
 File: testmagnet.jpg Graphic file (type jpg)
 <use testmagnet.jpg>
-Package pdftex.def Info: testmagnet.jpg  used on input line 345.
+Package pdftex.def Info: testmagnet.jpg  used on input line 346.
 (pdftex.def)             Requested size: 241.84842pt x 195.1191pt.
 
 
@@ -1135,7 +1135,7 @@ Package pdftex.def Info: testmagnet.jpg  used on input line 345.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.353 \newpage
+l.354 \newpage
                <./testmagnet.jpg>]
 
 [10]
@@ -1148,7 +1148,7 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `Magnetphase.out' has not changed.
-(rerunfilecheck)             Checksum: 1C153B263DE88822907A90FA4BF49B48;2802.
+(rerunfilecheck)             Checksum: 4719673A38FB000E76B3B761308B226F;2898.
 Package logreq Info: Writing requests to 'Magnetphase.run.xml'.
 \openout1 = `Magnetphase.run.xml'.
 
@@ -1162,7 +1162,7 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  95i,14n,113p,1201b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Justus/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Magnetphase.pdf (14 pages, 398137 bytes).
+Output written on Magnetphase.pdf (14 pages, 398225 bytes).
 PDF statistics:
  253 PDF objects out of 1000 (max. 8388607)
  48 named destinations out of 1000 (max. 500000)
